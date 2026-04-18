@@ -1,0 +1,1014 @@
+2026-04-19 00:05:29,829 - __main__ - INFO - ============================================================
+2026-04-19 00:05:29,829 - __main__ - INFO - E_Print PDF 解析服务启动中...
+2026-04-19 00:05:29,829 - __main__ - INFO - ============================================================
+2026-04-19 00:05:29,829 - __main__ - INFO - 上传目录: /Users/markov_lee/Code/E_Print/backend/temp
+2026-04-19 00:05:29,829 - __main__ - INFO - 日志目录: /Users/markov_lee/Code/E_Print/backend/logs
+2026-04-19 00:05:29,829 - __main__ - INFO - 允许的文件类型: {'pdf'}
+2026-04-19 00:05:29,829 - __main__ - INFO - 最大文件大小: 16.0 MB
+2026-04-19 00:05:29,829 - __main__ - INFO - ============================================================
+2026-04-19 00:05:29,829 - __main__ - INFO - 服务运行在: http://localhost:8000
+2026-04-19 00:05:29,829 - __main__ - INFO - API 端点: http://localhost:8000/api/order/parse-pdf
+2026-04-19 00:05:29,829 - __main__ - INFO - ============================================================
+2026-04-19 00:05:29,851 - werkzeug - WARNING -  * Debugger is active!
+2026-04-19 00:05:29,860 - werkzeug - INFO -  * Debugger PIN: 682-638-364
+2026-04-19 00:06:35,309 - werkzeug - INFO -  * Detected change in '/Users/markov_lee/Code/E_Print/backend/table_parser.py', reloading
+2026-04-19 00:06:35,508 - __main__ - INFO - ============================================================
+2026-04-19 00:06:35,509 - __main__ - INFO - E_Print PDF 解析服务启动中...
+2026-04-19 00:06:35,509 - __main__ - INFO - ============================================================
+2026-04-19 00:06:35,509 - __main__ - INFO - 上传目录: /Users/markov_lee/Code/E_Print/backend/temp
+2026-04-19 00:06:35,509 - __main__ - INFO - 日志目录: /Users/markov_lee/Code/E_Print/backend/logs
+2026-04-19 00:06:35,509 - __main__ - INFO - 允许的文件类型: {'pdf'}
+2026-04-19 00:06:35,509 - __main__ - INFO - 最大文件大小: 16.0 MB
+2026-04-19 00:06:35,509 - __main__ - INFO - ============================================================
+2026-04-19 00:06:35,509 - __main__ - INFO - 服务运行在: http://localhost:8000
+2026-04-19 00:06:35,509 - __main__ - INFO - API 端点: http://localhost:8000/api/order/parse-pdf
+2026-04-19 00:06:35,509 - __main__ - INFO - ============================================================
+2026-04-19 00:06:35,529 - werkzeug - WARNING -  * Debugger is active!
+2026-04-19 00:06:35,544 - werkzeug - INFO -  * Debugger PIN: 682-638-364
+2026-04-19 00:06:46,599 - werkzeug - INFO -  * Detected change in '/Users/markov_lee/Code/E_Print/backend/table_parser.py', reloading
+2026-04-19 00:06:46,791 - __main__ - INFO - ============================================================
+2026-04-19 00:06:46,791 - __main__ - INFO - E_Print PDF 解析服务启动中...
+2026-04-19 00:06:46,791 - __main__ - INFO - ============================================================
+2026-04-19 00:06:46,791 - __main__ - INFO - 上传目录: /Users/markov_lee/Code/E_Print/backend/temp
+2026-04-19 00:06:46,791 - __main__ - INFO - 日志目录: /Users/markov_lee/Code/E_Print/backend/logs
+2026-04-19 00:06:46,791 - __main__ - INFO - 允许的文件类型: {'pdf'}
+2026-04-19 00:06:46,791 - __main__ - INFO - 最大文件大小: 16.0 MB
+2026-04-19 00:06:46,791 - __main__ - INFO - ============================================================
+2026-04-19 00:06:46,791 - __main__ - INFO - 服务运行在: http://localhost:8000
+2026-04-19 00:06:46,791 - __main__ - INFO - API 端点: http://localhost:8000/api/order/parse-pdf
+2026-04-19 00:06:46,791 - __main__ - INFO - ============================================================
+2026-04-19 00:06:46,813 - werkzeug - WARNING -  * Debugger is active!
+2026-04-19 00:06:46,823 - werkzeug - INFO -  * Debugger PIN: 682-638-364
+2026-04-19 00:06:56,881 - werkzeug - INFO -  * Detected change in '/Users/markov_lee/Code/E_Print/backend/table_parser.py', reloading
+2026-04-19 00:06:57,080 - __main__ - INFO - ============================================================
+2026-04-19 00:06:57,080 - __main__ - INFO - E_Print PDF 解析服务启动中...
+2026-04-19 00:06:57,080 - __main__ - INFO - ============================================================
+2026-04-19 00:06:57,080 - __main__ - INFO - 上传目录: /Users/markov_lee/Code/E_Print/backend/temp
+2026-04-19 00:06:57,080 - __main__ - INFO - 日志目录: /Users/markov_lee/Code/E_Print/backend/logs
+2026-04-19 00:06:57,080 - __main__ - INFO - 允许的文件类型: {'pdf'}
+2026-04-19 00:06:57,080 - __main__ - INFO - 最大文件大小: 16.0 MB
+2026-04-19 00:06:57,080 - __main__ - INFO - ============================================================
+2026-04-19 00:06:57,080 - __main__ - INFO - 服务运行在: http://localhost:8000
+2026-04-19 00:06:57,080 - __main__ - INFO - API 端点: http://localhost:8000/api/order/parse-pdf
+2026-04-19 00:06:57,080 - __main__ - INFO - ============================================================
+2026-04-19 00:06:57,099 - werkzeug - WARNING -  * Debugger is active!
+2026-04-19 00:06:57,114 - werkzeug - INFO -  * Debugger PIN: 682-638-364
+2026-04-19 00:07:07,183 - werkzeug - INFO -  * Detected change in '/Users/markov_lee/Code/E_Print/backend/table_parser.py', reloading
+2026-04-19 00:07:07,368 - __main__ - INFO - ============================================================
+2026-04-19 00:07:07,368 - __main__ - INFO - E_Print PDF 解析服务启动中...
+2026-04-19 00:07:07,368 - __main__ - INFO - ============================================================
+2026-04-19 00:07:07,368 - __main__ - INFO - 上传目录: /Users/markov_lee/Code/E_Print/backend/temp
+2026-04-19 00:07:07,368 - __main__ - INFO - 日志目录: /Users/markov_lee/Code/E_Print/backend/logs
+2026-04-19 00:07:07,368 - __main__ - INFO - 允许的文件类型: {'pdf'}
+2026-04-19 00:07:07,368 - __main__ - INFO - 最大文件大小: 16.0 MB
+2026-04-19 00:07:07,368 - __main__ - INFO - ============================================================
+2026-04-19 00:07:07,368 - __main__ - INFO - 服务运行在: http://localhost:8000
+2026-04-19 00:07:07,368 - __main__ - INFO - API 端点: http://localhost:8000/api/order/parse-pdf
+2026-04-19 00:07:07,368 - __main__ - INFO - ============================================================
+2026-04-19 00:07:07,392 - werkzeug - WARNING -  * Debugger is active!
+2026-04-19 00:07:07,401 - werkzeug - INFO -  * Debugger PIN: 682-638-364
+2026-04-19 00:07:17,471 - werkzeug - INFO -  * Detected change in '/Users/markov_lee/Code/E_Print/backend/table_parser.py', reloading
+2026-04-19 00:07:17,657 - __main__ - INFO - ============================================================
+2026-04-19 00:07:17,657 - __main__ - INFO - E_Print PDF 解析服务启动中...
+2026-04-19 00:07:17,657 - __main__ - INFO - ============================================================
+2026-04-19 00:07:17,657 - __main__ - INFO - 上传目录: /Users/markov_lee/Code/E_Print/backend/temp
+2026-04-19 00:07:17,657 - __main__ - INFO - 日志目录: /Users/markov_lee/Code/E_Print/backend/logs
+2026-04-19 00:07:17,657 - __main__ - INFO - 允许的文件类型: {'pdf'}
+2026-04-19 00:07:17,657 - __main__ - INFO - 最大文件大小: 16.0 MB
+2026-04-19 00:07:17,657 - __main__ - INFO - ============================================================
+2026-04-19 00:07:17,657 - __main__ - INFO - 服务运行在: http://localhost:8000
+2026-04-19 00:07:17,657 - __main__ - INFO - API 端点: http://localhost:8000/api/order/parse-pdf
+2026-04-19 00:07:17,657 - __main__ - INFO - ============================================================
+2026-04-19 00:07:17,680 - werkzeug - WARNING -  * Debugger is active!
+2026-04-19 00:07:17,691 - werkzeug - INFO -  * Debugger PIN: 682-638-364
+2026-04-19 00:07:25,737 - werkzeug - INFO -  * Detected change in '/Users/markov_lee/Code/E_Print/backend/table_parser.py', reloading
+2026-04-19 00:07:25,912 - __main__ - INFO - ============================================================
+2026-04-19 00:07:25,913 - __main__ - INFO - E_Print PDF 解析服务启动中...
+2026-04-19 00:07:25,913 - __main__ - INFO - ============================================================
+2026-04-19 00:07:25,913 - __main__ - INFO - 上传目录: /Users/markov_lee/Code/E_Print/backend/temp
+2026-04-19 00:07:25,913 - __main__ - INFO - 日志目录: /Users/markov_lee/Code/E_Print/backend/logs
+2026-04-19 00:07:25,913 - __main__ - INFO - 允许的文件类型: {'pdf'}
+2026-04-19 00:07:25,913 - __main__ - INFO - 最大文件大小: 16.0 MB
+2026-04-19 00:07:25,913 - __main__ - INFO - ============================================================
+2026-04-19 00:07:25,913 - __main__ - INFO - 服务运行在: http://localhost:8000
+2026-04-19 00:07:25,913 - __main__ - INFO - API 端点: http://localhost:8000/api/order/parse-pdf
+2026-04-19 00:07:25,913 - __main__ - INFO - ============================================================
+2026-04-19 00:07:25,931 - werkzeug - WARNING -  * Debugger is active!
+2026-04-19 00:07:25,939 - werkzeug - INFO -  * Debugger PIN: 682-638-364
+2026-04-19 00:07:26,952 - werkzeug - INFO -  * Detected change in '/Users/markov_lee/Code/E_Print/backend/table_parser.py', reloading
+2026-04-19 00:07:27,140 - __main__ - INFO - ============================================================
+2026-04-19 00:07:27,140 - __main__ - INFO - E_Print PDF 解析服务启动中...
+2026-04-19 00:07:27,140 - __main__ - INFO - ============================================================
+2026-04-19 00:07:27,140 - __main__ - INFO - 上传目录: /Users/markov_lee/Code/E_Print/backend/temp
+2026-04-19 00:07:27,140 - __main__ - INFO - 日志目录: /Users/markov_lee/Code/E_Print/backend/logs
+2026-04-19 00:07:27,140 - __main__ - INFO - 允许的文件类型: {'pdf'}
+2026-04-19 00:07:27,140 - __main__ - INFO - 最大文件大小: 16.0 MB
+2026-04-19 00:07:27,140 - __main__ - INFO - ============================================================
+2026-04-19 00:07:27,140 - __main__ - INFO - 服务运行在: http://localhost:8000
+2026-04-19 00:07:27,140 - __main__ - INFO - API 端点: http://localhost:8000/api/order/parse-pdf
+2026-04-19 00:07:27,140 - __main__ - INFO - ============================================================
+2026-04-19 00:07:27,156 - werkzeug - WARNING -  * Debugger is active!
+2026-04-19 00:07:27,163 - werkzeug - INFO -  * Debugger PIN: 682-638-364
+2026-04-19 00:08:18,567 - __main__ - INFO - ============================================================
+2026-04-19 00:08:18,567 - __main__ - INFO - E_Print PDF 解析服务启动中...
+2026-04-19 00:08:18,567 - __main__ - INFO - ============================================================
+2026-04-19 00:08:18,567 - __main__ - INFO - 上传目录: /Users/markov_lee/Code/E_Print/backend/temp
+2026-04-19 00:08:18,567 - __main__ - INFO - 日志目录: /Users/markov_lee/Code/E_Print/backend/logs
+2026-04-19 00:08:18,567 - __main__ - INFO - 允许的文件类型: {'pdf'}
+2026-04-19 00:08:18,567 - __main__ - INFO - 最大文件大小: 16.0 MB
+2026-04-19 00:08:18,567 - __main__ - INFO - ============================================================
+2026-04-19 00:08:18,567 - __main__ - INFO - 服务运行在: http://localhost:8000
+2026-04-19 00:08:18,567 - __main__ - INFO - API 端点: http://localhost:8000/api/order/parse-pdf
+2026-04-19 00:08:18,567 - __main__ - INFO - ============================================================
+2026-04-19 00:08:18,601 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.1.9:8000
+2026-04-19 00:08:18,601 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2026-04-19 00:08:18,602 - werkzeug - INFO -  * Restarting with stat
+2026-04-19 00:08:18,685 - __main__ - INFO - ============================================================
+2026-04-19 00:08:18,685 - __main__ - INFO - E_Print PDF 解析服务启动中...
+2026-04-19 00:08:18,686 - __main__ - INFO - ============================================================
+2026-04-19 00:08:18,686 - __main__ - INFO - 上传目录: /Users/markov_lee/Code/E_Print/backend/temp
+2026-04-19 00:08:18,686 - __main__ - INFO - 日志目录: /Users/markov_lee/Code/E_Print/backend/logs
+2026-04-19 00:08:18,686 - __main__ - INFO - 允许的文件类型: {'pdf'}
+2026-04-19 00:08:18,686 - __main__ - INFO - 最大文件大小: 16.0 MB
+2026-04-19 00:08:18,686 - __main__ - INFO - ============================================================
+2026-04-19 00:08:18,686 - __main__ - INFO - 服务运行在: http://localhost:8000
+2026-04-19 00:08:18,686 - __main__ - INFO - API 端点: http://localhost:8000/api/order/parse-pdf
+2026-04-19 00:08:18,686 - __main__ - INFO - ============================================================
+2026-04-19 00:08:18,701 - werkzeug - WARNING -  * Debugger is active!
+2026-04-19 00:08:18,709 - werkzeug - INFO -  * Debugger PIN: 682-638-364
+2026-04-19 00:08:26,125 - werkzeug - INFO - 127.0.0.1 - - [19/Apr/2026 00:08:26] "GET /api/health HTTP/1.1" 200 -
+2026-04-19 00:08:52,293 - __main__ - INFO - ========== 新的解析请求 ==========
+2026-04-19 00:08:52,297 - __main__ - INFO - 收到文件: -V8.pdf
+2026-04-19 00:08:52,760 - __main__ - ERROR - 订单数据解析失败: 
+Traceback (most recent call last):
+  File "/Users/markov_lee/Code/E_Print/backend/pdf_parser_service.py", line 91, in parse_pdf
+    order_data = parse_order_from_pdf(filepath)
+  File "/Users/markov_lee/Code/E_Print/backend/table_parser.py", line 28, in parse_order_from_pdf
+    import ipdb;ipdb.set_trace()
+                ~~~~~~~~~~~~~~^^
+  File "/Users/markov_lee/miniconda3/envs/tts/lib/python3.14/bdb.py", line 300, in trace_dispatch
+    return self.dispatch_opcode(frame, arg)
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^
+  File "/Users/markov_lee/miniconda3/envs/tts/lib/python3.14/bdb.py", line 424, in dispatch_opcode
+    if self.quitting: raise BdbQuit
+                      ^^^^^^^^^^^^^
+bdb.BdbQuit
+2026-04-19 00:08:52,761 - werkzeug - INFO - 127.0.0.1 - - [19/Apr/2026 00:08:52] "[35m[1mPOST /api/order/parse-pdf HTTP/1.1[0m" 500 -
+2026-04-19 00:09:36,297 - __main__ - INFO - ============================================================
+2026-04-19 00:09:36,297 - __main__ - INFO - E_Print PDF 解析服务启动中...
+2026-04-19 00:09:36,297 - __main__ - INFO - ============================================================
+2026-04-19 00:09:36,297 - __main__ - INFO - 上传目录: /Users/markov_lee/Code/E_Print/backend/temp
+2026-04-19 00:09:36,297 - __main__ - INFO - 日志目录: /Users/markov_lee/Code/E_Print/backend/logs
+2026-04-19 00:09:36,298 - __main__ - INFO - 允许的文件类型: {'pdf'}
+2026-04-19 00:09:36,298 - __main__ - INFO - 最大文件大小: 16.0 MB
+2026-04-19 00:09:36,298 - __main__ - INFO - ============================================================
+2026-04-19 00:09:36,298 - __main__ - INFO - 服务运行在: http://localhost:8000
+2026-04-19 00:09:36,298 - __main__ - INFO - API 端点: http://localhost:8000/api/order/parse-pdf
+2026-04-19 00:09:36,298 - __main__ - INFO - ============================================================
+2026-04-19 00:09:36,335 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.1.9:8000
+2026-04-19 00:09:36,338 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2026-04-19 00:09:36,339 - werkzeug - INFO -  * Restarting with stat
+2026-04-19 00:09:36,427 - __main__ - INFO - ============================================================
+2026-04-19 00:09:36,428 - __main__ - INFO - E_Print PDF 解析服务启动中...
+2026-04-19 00:09:36,428 - __main__ - INFO - ============================================================
+2026-04-19 00:09:36,428 - __main__ - INFO - 上传目录: /Users/markov_lee/Code/E_Print/backend/temp
+2026-04-19 00:09:36,428 - __main__ - INFO - 日志目录: /Users/markov_lee/Code/E_Print/backend/logs
+2026-04-19 00:09:36,428 - __main__ - INFO - 允许的文件类型: {'pdf'}
+2026-04-19 00:09:36,428 - __main__ - INFO - 最大文件大小: 16.0 MB
+2026-04-19 00:09:36,428 - __main__ - INFO - ============================================================
+2026-04-19 00:09:36,428 - __main__ - INFO - 服务运行在: http://localhost:8000
+2026-04-19 00:09:36,428 - __main__ - INFO - API 端点: http://localhost:8000/api/order/parse-pdf
+2026-04-19 00:09:36,428 - __main__ - INFO - ============================================================
+2026-04-19 00:09:36,443 - werkzeug - WARNING -  * Debugger is active!
+2026-04-19 00:09:36,453 - werkzeug - INFO -  * Debugger PIN: 682-638-364
+2026-04-19 00:09:49,810 - __main__ - INFO - ========== 新的解析请求 ==========
+2026-04-19 00:09:49,815 - __main__ - INFO - 收到文件: -V8.pdf
+2026-04-19 00:13:04,066 - __main__ - INFO - ✓ 成功解析订单数据，字段数: 58
+2026-04-19 00:13:04,067 - __main__ - INFO - 解析结果（非空字段）: {'customer': '当纳利亚洲印务有限公司', 'xiaZiliaodaiRiqiRequired': '2025-10-29', 'productName': '903B23575 AM-绿女巫塔罗牌(美书盒)V8The Green Witch’s Oracle Deck', 'order_id': '25025769', 'jiuBianMa': '903B23574', 'customerPO': '460308806', 'chuHuoShuLiang': 300000, 'chuHuoRiqiRequired': '2025-11-24', 'xiLieDanMing': 'Spot job', 'chanPinDaLei': 'Others', 'fscType': 'Non FSC', 'chanPinMingXi': [{'neiWen': '板纸盒外 裱纸', 'yongZhiChiCun': '', 'houDu': 0, 'keZhong': 128, 'chanDi': '国产', 'pinPai': '金太阳', 'zhiLei': '双面铜 版纸 (A2高 光)', 'FSC': 'FSC Mix Credit', 'yeShu': 4, 'yinSe': 'CYMK/', 'zhuanSe': '/', 'biaoMianChuLi': '单面过哑 胶,压凹', 'zhuangDingGongYi': '收缩包 装', 'beiZhu': '手指位'}, {'neiWen': '板纸盒板 纸', 'yongZhiChiCun': '', 'houDu': 25, 'keZhong': 0, 'chanDi': '国产', 'pinPai': '名欧', 'zhiLei': '灰板纸', 'FSC': 'FSC Recycl ed 100%', 'yeShu': 4, 'yinSe': '/', 'zhuanSe': '/', 'biaoMianChuLi': '', 'zhuangDingGongYi': '', 'beiZhu': ''}, {'neiWen': '板纸盒内 裱纸', 'yongZhiChiCun': '', 'houDu': 0, 'keZhong': 120, 'chanDi': '国产', 'pinPai': '金太阳', 'zhiLei': '双胶纸', 'FSC': 'FSC Mix Credit', 'yeShu': 4, 'yinSe': '/', 'zhuanSe': '[染PMS Black U][过印刷机 哑水油]/', 'biaoMianChuLi': '', 'zhuangDingGongYi': '', 'beiZhu': ''}, {'neiWen': '卡片', 'yongZhiChiCun': '', 'houDu': 0, 'keZhong': 400, 'chanDi': '国产', 'pinPai': '金太阳', 'zhiLei': '双面铜 版卡 (高光)', 'FSC': 'FSC Mix Credit', 'yeShu': 100, 'yinSe': 'CYMK/CYMK', 'zhuanSe': '[过印刷机哑 水油]/[过印刷 机哑水油]', 'biaoMianChuLi': '', 'zhuangDingGongYi': '圆角', 'beiZhu': ''}], 'dingDanPingShenXinXi': '"1、1本胶装书+50张卡片按工单顺序入书盒后收缩包装为一套 2、印刷书盒面纸需要拿大货书本和卡片试装，OK才可以印刷，啤书盒灰板和面纸需要拿大货书本卡片试装，OK才可以做大货 3、卡片按分条分块原则编排，印刷》啤》手工排卡》切成品》冲圆角 4、啤封面需拿毛书对比脊宽， 5、胶装书封面拉大排宽度拉大到220MM确保可以上胶装机"'}
+2026-04-19 00:13:04,068 - __main__ - INFO - ✓ 已删除临时文件: -V8.pdf
+2026-04-19 00:13:04,068 - __main__ - INFO - ========== 解析成功 ==========
+
+2026-04-19 00:13:04,069 - werkzeug - INFO - 127.0.0.1 - - [19/Apr/2026 00:13:04] "POST /api/order/parse-pdf HTTP/1.1" 200 -
+2026-04-19 00:14:40,830 - werkzeug - INFO -  * Detected change in '/Users/markov_lee/Code/E_Print/backend/table_parser.py', reloading
+2026-04-19 00:14:41,141 - werkzeug - INFO -  * Restarting with stat
+2026-04-19 00:14:41,315 - __main__ - INFO - ============================================================
+2026-04-19 00:14:41,315 - __main__ - INFO - E_Print PDF 解析服务启动中...
+2026-04-19 00:14:41,315 - __main__ - INFO - ============================================================
+2026-04-19 00:14:41,315 - __main__ - INFO - 上传目录: /Users/markov_lee/Code/E_Print/backend/temp
+2026-04-19 00:14:41,315 - __main__ - INFO - 日志目录: /Users/markov_lee/Code/E_Print/backend/logs
+2026-04-19 00:14:41,315 - __main__ - INFO - 允许的文件类型: {'pdf'}
+2026-04-19 00:14:41,315 - __main__ - INFO - 最大文件大小: 16.0 MB
+2026-04-19 00:14:41,315 - __main__ - INFO - ============================================================
+2026-04-19 00:14:41,315 - __main__ - INFO - 服务运行在: http://localhost:8000
+2026-04-19 00:14:41,315 - __main__ - INFO - API 端点: http://localhost:8000/api/order/parse-pdf
+2026-04-19 00:14:41,315 - __main__ - INFO - ============================================================
+2026-04-19 00:14:41,340 - werkzeug - WARNING -  * Debugger is active!
+2026-04-19 00:14:41,352 - werkzeug - INFO -  * Debugger PIN: 682-638-364
+2026-04-19 00:14:52,423 - werkzeug - INFO -  * Detected change in '/Users/markov_lee/Code/E_Print/backend/table_parser.py', reloading
+2026-04-19 00:14:52,473 - werkzeug - INFO -  * Restarting with stat
+2026-04-19 00:14:52,640 - __main__ - INFO - ============================================================
+2026-04-19 00:14:52,640 - __main__ - INFO - E_Print PDF 解析服务启动中...
+2026-04-19 00:14:52,640 - __main__ - INFO - ============================================================
+2026-04-19 00:14:52,640 - __main__ - INFO - 上传目录: /Users/markov_lee/Code/E_Print/backend/temp
+2026-04-19 00:14:52,640 - __main__ - INFO - 日志目录: /Users/markov_lee/Code/E_Print/backend/logs
+2026-04-19 00:14:52,640 - __main__ - INFO - 允许的文件类型: {'pdf'}
+2026-04-19 00:14:52,640 - __main__ - INFO - 最大文件大小: 16.0 MB
+2026-04-19 00:14:52,640 - __main__ - INFO - ============================================================
+2026-04-19 00:14:52,640 - __main__ - INFO - 服务运行在: http://localhost:8000
+2026-04-19 00:14:52,640 - __main__ - INFO - API 端点: http://localhost:8000/api/order/parse-pdf
+2026-04-19 00:14:52,640 - __main__ - INFO - ============================================================
+2026-04-19 00:14:52,663 - werkzeug - WARNING -  * Debugger is active!
+2026-04-19 00:14:52,673 - werkzeug - INFO -  * Debugger PIN: 682-638-364
+2026-04-19 00:15:01,124 - __main__ - INFO - ============================================================
+2026-04-19 00:15:01,124 - __main__ - INFO - E_Print PDF 解析服务启动中...
+2026-04-19 00:15:01,124 - __main__ - INFO - ============================================================
+2026-04-19 00:15:01,124 - __main__ - INFO - 上传目录: /Users/markov_lee/Code/E_Print/backend/temp
+2026-04-19 00:15:01,124 - __main__ - INFO - 日志目录: /Users/markov_lee/Code/E_Print/backend/logs
+2026-04-19 00:15:01,124 - __main__ - INFO - 允许的文件类型: {'pdf'}
+2026-04-19 00:15:01,124 - __main__ - INFO - 最大文件大小: 16.0 MB
+2026-04-19 00:15:01,124 - __main__ - INFO - ============================================================
+2026-04-19 00:15:01,124 - __main__ - INFO - 服务运行在: http://localhost:8000
+2026-04-19 00:15:01,124 - __main__ - INFO - API 端点: http://localhost:8000/api/order/parse-pdf
+2026-04-19 00:15:01,124 - __main__ - INFO - ============================================================
+2026-04-19 00:15:01,157 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.1.9:8000
+2026-04-19 00:15:01,157 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2026-04-19 00:15:01,158 - werkzeug - INFO -  * Restarting with stat
+2026-04-19 00:15:01,254 - __main__ - INFO - ============================================================
+2026-04-19 00:15:01,254 - __main__ - INFO - E_Print PDF 解析服务启动中...
+2026-04-19 00:15:01,254 - __main__ - INFO - ============================================================
+2026-04-19 00:15:01,254 - __main__ - INFO - 上传目录: /Users/markov_lee/Code/E_Print/backend/temp
+2026-04-19 00:15:01,254 - __main__ - INFO - 日志目录: /Users/markov_lee/Code/E_Print/backend/logs
+2026-04-19 00:15:01,254 - __main__ - INFO - 允许的文件类型: {'pdf'}
+2026-04-19 00:15:01,254 - __main__ - INFO - 最大文件大小: 16.0 MB
+2026-04-19 00:15:01,254 - __main__ - INFO - ============================================================
+2026-04-19 00:15:01,255 - __main__ - INFO - 服务运行在: http://localhost:8000
+2026-04-19 00:15:01,255 - __main__ - INFO - API 端点: http://localhost:8000/api/order/parse-pdf
+2026-04-19 00:15:01,255 - __main__ - INFO - ============================================================
+2026-04-19 00:15:01,270 - werkzeug - WARNING -  * Debugger is active!
+2026-04-19 00:15:01,278 - werkzeug - INFO -  * Debugger PIN: 682-638-364
+2026-04-19 00:15:09,197 - werkzeug - INFO - 127.0.0.1 - - [19/Apr/2026 00:15:09] "GET /api/health HTTP/1.1" 200 -
+2026-04-19 00:15:53,420 - __main__ - INFO - ========== 新的解析请求 ==========
+2026-04-19 00:15:53,425 - __main__ - INFO - 收到文件: -V8.pdf
+2026-04-19 00:15:53,506 - __main__ - INFO - ✓ 成功解析订单数据，字段数: 58
+2026-04-19 00:15:53,506 - __main__ - INFO - 解析结果（非空字段）: {'customer': '当纳利亚洲印务有限公司', 'dingDanShuLiang': 30000, 'chuYangShuLiang': 1, 'xiaZiliaodaiRiqiRequired': '2025-10-29', 'productName': '903B23575 AM-绿女巫塔罗牌(美书盒)V8The Green Witch’s Oracle Deck', 'chaoBiLiShuLiang': 1500, 'order_id': '25025769', 'zongShuLiang': 30001, 'jiuBianMa': '903B23574', 'isbn': '9781507221136', 'chuYangShuoMing': '454500', 'customerPO': '460308806', 'baoJiaDanHao': '装订方式', 'zhuangDingFangShi': '彩盒', 'chuHuoShuLiang': 300000, 'chuHuoRiqiRequired': '2025-11-24', 'xiLieDanMing': 'Spot job', 'guigeGaoMm': 127, 'qiTaShiBie': '宽', 'guigeKuanMm': 889, 'chanPinDaLei': 'Others', 'ziLeiXing': '厚', 'fscType': 'Non FSC', 'genSeZhiShi': '专色跟色尺,其余跟签色', 'keLaiXinxi': 'CTP再版(翻印)', 'baoLiuQianSe': 'N', 'chanPinMingXi': [{'neiWen': '板纸盒外 裱纸', 'yongZhiChiCun': '', 'houDu': 0, 'keZhong': 128, 'chanDi': '国产', 'pinPai': '金太阳', 'zhiLei': '双面铜 版纸 (A2高 光)', 'FSC': 'FSC Mix Credit', 'yeShu': 4, 'yinSe': 'CYMK/', 'zhuanSe': '/', 'biaoMianChuLi': '单面过哑 胶,压凹', 'zhuangDingGongYi': '收缩包 装', 'beiZhu': '手指位'}, {'neiWen': '板纸盒板 纸', 'yongZhiChiCun': '', 'houDu': 25, 'keZhong': 0, 'chanDi': '国产', 'pinPai': '名欧', 'zhiLei': '灰板纸', 'FSC': 'FSC Recycl ed 100%', 'yeShu': 4, 'yinSe': '/', 'zhuanSe': '/', 'biaoMianChuLi': '', 'zhuangDingGongYi': '', 'beiZhu': ''}, {'neiWen': '板纸盒内 裱纸', 'yongZhiChiCun': '', 'houDu': 0, 'keZhong': 120, 'chanDi': '国产', 'pinPai': '金太阳', 'zhiLei': '双胶纸', 'FSC': 'FSC Mix Credit', 'yeShu': 4, 'yinSe': '/', 'zhuanSe': '[染PMS Black U][过印刷机 哑水油]/', 'biaoMianChuLi': '', 'zhuangDingGongYi': '', 'beiZhu': ''}, {'neiWen': '卡片', 'yongZhiChiCun': '', 'houDu': 0, 'keZhong': 400, 'chanDi': '国产', 'pinPai': '金太阳', 'zhiLei': '双面铜 版卡 (高光)', 'FSC': 'FSC Mix Credit', 'yeShu': 100, 'yinSe': 'CYMK/CYMK', 'zhuanSe': '[过印刷机哑 水油]/[过印刷 机哑水油]', 'biaoMianChuLi': '', 'zhuangDingGongYi': '圆角', 'beiZhu': ''}], 'zhuangDingShouGongYaoQiu': '1. 天地盒介半穿，天盖打20mm手指位 卡片尺寸W*H:88.9*127mm，4角切4分圆角 卡片正反方向按头对头，脚对脚方向做，卡片黑色面朝上，有颜色的图案面朝下 天盒外裱纸指甲孔离克字仅2.6mm,小心切到字', 'qiTa': '配套书包装：内含一本平装书+50张卡片', 'teShuYaoQiu': '1.此客户包裹要求去塑使用环保材质包装，寄给客人的折排/样本/白样都必须禁止使用珍珠棉/泡泡袋/塑料等不环保材质。 2.此客户V1新单请提供2本样给AE', 'dingDanPingShenXinXi': '"1、1本胶装书+50张卡片按工单顺序入书盒后收缩包装为一套 2、印刷书盒面纸需要拿大货书本和卡片试装，OK才可以印刷，啤书盒灰板和面纸需要拿大货书本卡片试装，OK才可以做大货 3、卡片按分条分块原则编排，印刷》啤》手工排卡》切成品》冲圆角 4、啤封面需拿毛书对比脊宽， 5、胶装书封面拉大排宽度拉大到220MM确保可以上胶装机"'}
+2026-04-19 00:15:53,506 - __main__ - INFO - ✓ 已删除临时文件: -V8.pdf
+2026-04-19 00:15:53,506 - __main__ - INFO - ========== 解析成功 ==========
+
+2026-04-19 00:15:53,506 - werkzeug - INFO - 127.0.0.1 - - [19/Apr/2026 00:15:53] "POST /api/order/parse-pdf HTTP/1.1" 200 -
+2026-04-19 00:17:30,313 - werkzeug - INFO -  * Detected change in '/Users/markov_lee/Code/E_Print/backend/table_parser.py', reloading
+2026-04-19 00:17:30,350 - werkzeug - INFO -  * Restarting with stat
+2026-04-19 00:17:30,525 - __main__ - INFO - ============================================================
+2026-04-19 00:17:30,525 - __main__ - INFO - E_Print PDF 解析服务启动中...
+2026-04-19 00:17:30,525 - __main__ - INFO - ============================================================
+2026-04-19 00:17:30,525 - __main__ - INFO - 上传目录: /Users/markov_lee/Code/E_Print/backend/temp
+2026-04-19 00:17:30,525 - __main__ - INFO - 日志目录: /Users/markov_lee/Code/E_Print/backend/logs
+2026-04-19 00:17:30,525 - __main__ - INFO - 允许的文件类型: {'pdf'}
+2026-04-19 00:17:30,526 - __main__ - INFO - 最大文件大小: 16.0 MB
+2026-04-19 00:17:30,526 - __main__ - INFO - ============================================================
+2026-04-19 00:17:30,526 - __main__ - INFO - 服务运行在: http://localhost:8000
+2026-04-19 00:17:30,526 - __main__ - INFO - API 端点: http://localhost:8000/api/order/parse-pdf
+2026-04-19 00:17:30,526 - __main__ - INFO - ============================================================
+2026-04-19 00:17:30,553 - werkzeug - WARNING -  * Debugger is active!
+2026-04-19 00:17:30,566 - werkzeug - INFO -  * Debugger PIN: 682-638-364
+2026-04-19 00:17:50,700 - werkzeug - INFO -  * Detected change in '/Users/markov_lee/Code/E_Print/backend/table_parser.py', reloading
+2026-04-19 00:17:50,769 - werkzeug - INFO -  * Restarting with stat
+2026-04-19 00:17:50,940 - __main__ - INFO - ============================================================
+2026-04-19 00:17:50,940 - __main__ - INFO - E_Print PDF 解析服务启动中...
+2026-04-19 00:17:50,940 - __main__ - INFO - ============================================================
+2026-04-19 00:17:50,940 - __main__ - INFO - 上传目录: /Users/markov_lee/Code/E_Print/backend/temp
+2026-04-19 00:17:50,940 - __main__ - INFO - 日志目录: /Users/markov_lee/Code/E_Print/backend/logs
+2026-04-19 00:17:50,941 - __main__ - INFO - 允许的文件类型: {'pdf'}
+2026-04-19 00:17:50,941 - __main__ - INFO - 最大文件大小: 16.0 MB
+2026-04-19 00:17:50,941 - __main__ - INFO - ============================================================
+2026-04-19 00:17:50,941 - __main__ - INFO - 服务运行在: http://localhost:8000
+2026-04-19 00:17:50,941 - __main__ - INFO - API 端点: http://localhost:8000/api/order/parse-pdf
+2026-04-19 00:17:50,941 - __main__ - INFO - ============================================================
+2026-04-19 00:17:50,962 - werkzeug - WARNING -  * Debugger is active!
+2026-04-19 00:17:50,979 - werkzeug - INFO -  * Debugger PIN: 682-638-364
+2026-04-19 00:18:04,059 - werkzeug - INFO -  * Detected change in '/Users/markov_lee/Code/E_Print/backend/table_parser.py', reloading
+2026-04-19 00:18:04,100 - werkzeug - INFO -  * Restarting with stat
+2026-04-19 00:18:04,239 - __main__ - INFO - ============================================================
+2026-04-19 00:18:04,239 - __main__ - INFO - E_Print PDF 解析服务启动中...
+2026-04-19 00:18:04,239 - __main__ - INFO - ============================================================
+2026-04-19 00:18:04,239 - __main__ - INFO - 上传目录: /Users/markov_lee/Code/E_Print/backend/temp
+2026-04-19 00:18:04,239 - __main__ - INFO - 日志目录: /Users/markov_lee/Code/E_Print/backend/logs
+2026-04-19 00:18:04,239 - __main__ - INFO - 允许的文件类型: {'pdf'}
+2026-04-19 00:18:04,239 - __main__ - INFO - 最大文件大小: 16.0 MB
+2026-04-19 00:18:04,239 - __main__ - INFO - ============================================================
+2026-04-19 00:18:04,239 - __main__ - INFO - 服务运行在: http://localhost:8000
+2026-04-19 00:18:04,239 - __main__ - INFO - API 端点: http://localhost:8000/api/order/parse-pdf
+2026-04-19 00:18:04,239 - __main__ - INFO - ============================================================
+2026-04-19 00:18:04,260 - werkzeug - WARNING -  * Debugger is active!
+2026-04-19 00:18:04,272 - werkzeug - INFO -  * Debugger PIN: 682-638-364
+2026-04-19 00:18:12,827 - __main__ - INFO - ============================================================
+2026-04-19 00:18:12,827 - __main__ - INFO - E_Print PDF 解析服务启动中...
+2026-04-19 00:18:12,827 - __main__ - INFO - ============================================================
+2026-04-19 00:18:12,827 - __main__ - INFO - 上传目录: /Users/markov_lee/Code/E_Print/backend/temp
+2026-04-19 00:18:12,827 - __main__ - INFO - 日志目录: /Users/markov_lee/Code/E_Print/backend/logs
+2026-04-19 00:18:12,827 - __main__ - INFO - 允许的文件类型: {'pdf'}
+2026-04-19 00:18:12,827 - __main__ - INFO - 最大文件大小: 16.0 MB
+2026-04-19 00:18:12,827 - __main__ - INFO - ============================================================
+2026-04-19 00:18:12,827 - __main__ - INFO - 服务运行在: http://localhost:8000
+2026-04-19 00:18:12,827 - __main__ - INFO - API 端点: http://localhost:8000/api/order/parse-pdf
+2026-04-19 00:18:12,827 - __main__ - INFO - ============================================================
+2026-04-19 00:18:12,864 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.1.9:8000
+2026-04-19 00:18:12,864 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2026-04-19 00:18:12,864 - werkzeug - INFO -  * Restarting with stat
+2026-04-19 00:18:12,952 - __main__ - INFO - ============================================================
+2026-04-19 00:18:12,952 - __main__ - INFO - E_Print PDF 解析服务启动中...
+2026-04-19 00:18:12,952 - __main__ - INFO - ============================================================
+2026-04-19 00:18:12,952 - __main__ - INFO - 上传目录: /Users/markov_lee/Code/E_Print/backend/temp
+2026-04-19 00:18:12,952 - __main__ - INFO - 日志目录: /Users/markov_lee/Code/E_Print/backend/logs
+2026-04-19 00:18:12,952 - __main__ - INFO - 允许的文件类型: {'pdf'}
+2026-04-19 00:18:12,952 - __main__ - INFO - 最大文件大小: 16.0 MB
+2026-04-19 00:18:12,952 - __main__ - INFO - ============================================================
+2026-04-19 00:18:12,952 - __main__ - INFO - 服务运行在: http://localhost:8000
+2026-04-19 00:18:12,952 - __main__ - INFO - API 端点: http://localhost:8000/api/order/parse-pdf
+2026-04-19 00:18:12,952 - __main__ - INFO - ============================================================
+2026-04-19 00:18:12,966 - werkzeug - WARNING -  * Debugger is active!
+2026-04-19 00:18:12,974 - werkzeug - INFO -  * Debugger PIN: 682-638-364
+2026-04-19 00:18:21,178 - werkzeug - INFO - 127.0.0.1 - - [19/Apr/2026 00:18:21] "GET /api/health HTTP/1.1" 200 -
+2026-04-19 00:18:54,100 - __main__ - INFO - ========== 新的解析请求 ==========
+2026-04-19 00:18:54,106 - __main__ - INFO - 收到文件: -V8.pdf
+2026-04-19 00:18:54,186 - __main__ - INFO - ✓ 成功解析订单数据，字段数: 58
+2026-04-19 00:18:54,186 - __main__ - INFO - 解析结果（非空字段）: {'customer': '当纳利亚洲印务有限公司', 'dingDanShuLiang': 30000, 'chuYangShuLiang': 1, 'xiaZiliaodaiRiqiPromise': '2025-10-29', 'productName': '903B23575 AM-绿女巫塔罗牌(美书盒)V8The Green Witch’s Oracle Deck', 'chaoBiLiShuLiang': 1500, 'order_id': '25025769', 'zongShuLiang': 30001, 'jiuBianMa': '903B23574', 'isbn': '9781507221136', 'chuYangShuoMing': '454500', 'customerPO': '460308806', 'baoJiaDanHao': '装订方式', 'zhuangDingFangShi': '彩盒', 'chuHuoShuLiang': 300000, 'chuHuoRiqiRequired': '2025-11-24', 'xiLieDanMing': 'Spot job', 'guigeGaoMm': 127, 'qiTaShiBie': '宽', 'guigeKuanMm': 889, 'chanPinDaLei': 'Others', 'ziLeiXing': '厚', 'fscType': 'Non FSC', 'genSeZhiShi': '专色跟色尺,其余跟签色', 'keLaiXinxi': 'CTP再版(翻印)', 'baoLiuQianSe': 'N', 'chanPinMingXi': [{'neiWen': '板纸盒外 裱纸', 'yongZhiChiCun': '', 'houDu': 0, 'keZhong': 128, 'chanDi': '国产', 'pinPai': '金太阳', 'zhiLei': '双面铜 版纸 (A2高 光)', 'FSC': 'FSC Mix Credit', 'yeShu': 4, 'yinSe': 'CYMK/', 'zhuanSe': '/', 'biaoMianChuLi': '单面过哑 胶,压凹', 'zhuangDingGongYi': '收缩包 装', 'beiZhu': '手指位'}, {'neiWen': '板纸盒板 纸', 'yongZhiChiCun': '', 'houDu': 25, 'keZhong': 0, 'chanDi': '国产', 'pinPai': '名欧', 'zhiLei': '灰板纸', 'FSC': 'FSC Recycl ed 100%', 'yeShu': 4, 'yinSe': '/', 'zhuanSe': '/', 'biaoMianChuLi': '', 'zhuangDingGongYi': '', 'beiZhu': ''}, {'neiWen': '板纸盒内 裱纸', 'yongZhiChiCun': '', 'houDu': 0, 'keZhong': 120, 'chanDi': '国产', 'pinPai': '金太阳', 'zhiLei': '双胶纸', 'FSC': 'FSC Mix Credit', 'yeShu': 4, 'yinSe': '/', 'zhuanSe': '[染PMS Black U][过印刷机 哑水油]/', 'biaoMianChuLi': '', 'zhuangDingGongYi': '', 'beiZhu': ''}, {'neiWen': '卡片', 'yongZhiChiCun': '', 'houDu': 0, 'keZhong': 400, 'chanDi': '国产', 'pinPai': '金太阳', 'zhiLei': '双面铜 版卡 (高光)', 'FSC': 'FSC Mix Credit', 'yeShu': 100, 'yinSe': 'CYMK/CYMK', 'zhuanSe': '[过印刷机哑 水油]/[过印刷 机哑水油]', 'biaoMianChuLi': '', 'zhuangDingGongYi': '圆角', 'beiZhu': ''}], 'zhuangDingShouGongYaoQiu': '1. 天地盒介半穿，天盖打20mm手指位 卡片尺寸W*H:88.9*127mm，4角切4分圆角 卡片正反方向按头对头，脚对脚方向做，卡片黑色面朝上，有颜色的图案面朝下 天盒外裱纸指甲孔离克字仅2.6mm,小心切到字', 'qiTa': '配套书包装：内含一本平装书+50张卡片', 'teShuYaoQiu': '1.此客户包裹要求去塑使用环保材质包装，寄给客人的折排/样本/白样都必须禁止使用珍珠棉/泡泡袋/塑料等不环保材质。 2.此客户V1新单请提供2本样给AE', 'dingDanPingShenXinXi': '"1、1本胶装书+50张卡片按工单顺序入书盒后收缩包装为一套 2、印刷书盒面纸需要拿大货书本和卡片试装，OK才可以印刷，啤书盒灰板和面纸需要拿大货书本卡片试装，OK才可以做大货 3、卡片按分条分块原则编排，印刷》啤》手工排卡》切成品》冲圆角 4、啤封面需拿毛书对比脊宽， 5、胶装书封面拉大排宽度拉大到220MM确保可以上胶装机"'}
+2026-04-19 00:18:54,186 - __main__ - INFO - ✓ 已删除临时文件: -V8.pdf
+2026-04-19 00:18:54,186 - __main__ - INFO - ========== 解析成功 ==========
+
+2026-04-19 00:18:54,187 - werkzeug - INFO - 127.0.0.1 - - [19/Apr/2026 00:18:54] "POST /api/order/parse-pdf HTTP/1.1" 200 -
+2026-04-19 00:20:52,077 - werkzeug - INFO -  * Detected change in '/Users/markov_lee/Code/E_Print/backend/table_parser.py', reloading
+2026-04-19 00:20:52,142 - werkzeug - INFO -  * Restarting with stat
+2026-04-19 00:20:52,322 - __main__ - INFO - ============================================================
+2026-04-19 00:20:52,322 - __main__ - INFO - E_Print PDF 解析服务启动中...
+2026-04-19 00:20:52,322 - __main__ - INFO - ============================================================
+2026-04-19 00:20:52,323 - __main__ - INFO - 上传目录: /Users/markov_lee/Code/E_Print/backend/temp
+2026-04-19 00:20:52,323 - __main__ - INFO - 日志目录: /Users/markov_lee/Code/E_Print/backend/logs
+2026-04-19 00:20:52,323 - __main__ - INFO - 允许的文件类型: {'pdf'}
+2026-04-19 00:20:52,323 - __main__ - INFO - 最大文件大小: 16.0 MB
+2026-04-19 00:20:52,323 - __main__ - INFO - ============================================================
+2026-04-19 00:20:52,323 - __main__ - INFO - 服务运行在: http://localhost:8000
+2026-04-19 00:20:52,323 - __main__ - INFO - API 端点: http://localhost:8000/api/order/parse-pdf
+2026-04-19 00:20:52,323 - __main__ - INFO - ============================================================
+2026-04-19 00:20:52,349 - werkzeug - WARNING -  * Debugger is active!
+2026-04-19 00:20:52,363 - werkzeug - INFO -  * Debugger PIN: 682-638-364
+2026-04-19 00:22:27,030 - werkzeug - INFO -  * Detected change in '/Users/markov_lee/Code/E_Print/backend/table_parser.py', reloading
+2026-04-19 00:22:27,074 - werkzeug - INFO -  * Restarting with stat
+2026-04-19 00:22:27,234 - __main__ - INFO - ============================================================
+2026-04-19 00:22:27,234 - __main__ - INFO - E_Print PDF 解析服务启动中...
+2026-04-19 00:22:27,234 - __main__ - INFO - ============================================================
+2026-04-19 00:22:27,234 - __main__ - INFO - 上传目录: /Users/markov_lee/Code/E_Print/backend/temp
+2026-04-19 00:22:27,234 - __main__ - INFO - 日志目录: /Users/markov_lee/Code/E_Print/backend/logs
+2026-04-19 00:22:27,234 - __main__ - INFO - 允许的文件类型: {'pdf'}
+2026-04-19 00:22:27,235 - __main__ - INFO - 最大文件大小: 16.0 MB
+2026-04-19 00:22:27,235 - __main__ - INFO - ============================================================
+2026-04-19 00:22:27,235 - __main__ - INFO - 服务运行在: http://localhost:8000
+2026-04-19 00:22:27,235 - __main__ - INFO - API 端点: http://localhost:8000/api/order/parse-pdf
+2026-04-19 00:22:27,235 - __main__ - INFO - ============================================================
+2026-04-19 00:22:27,263 - werkzeug - WARNING -  * Debugger is active!
+2026-04-19 00:22:27,272 - werkzeug - INFO -  * Debugger PIN: 682-638-364
+2026-04-19 00:22:37,328 - werkzeug - INFO -  * Detected change in '/Users/markov_lee/Code/E_Print/backend/table_parser.py', reloading
+2026-04-19 00:22:37,378 - werkzeug - INFO -  * Restarting with stat
+2026-04-19 00:22:37,558 - __main__ - INFO - ============================================================
+2026-04-19 00:22:37,558 - __main__ - INFO - E_Print PDF 解析服务启动中...
+2026-04-19 00:22:37,558 - __main__ - INFO - ============================================================
+2026-04-19 00:22:37,558 - __main__ - INFO - 上传目录: /Users/markov_lee/Code/E_Print/backend/temp
+2026-04-19 00:22:37,558 - __main__ - INFO - 日志目录: /Users/markov_lee/Code/E_Print/backend/logs
+2026-04-19 00:22:37,558 - __main__ - INFO - 允许的文件类型: {'pdf'}
+2026-04-19 00:22:37,558 - __main__ - INFO - 最大文件大小: 16.0 MB
+2026-04-19 00:22:37,558 - __main__ - INFO - ============================================================
+2026-04-19 00:22:37,558 - __main__ - INFO - 服务运行在: http://localhost:8000
+2026-04-19 00:22:37,558 - __main__ - INFO - API 端点: http://localhost:8000/api/order/parse-pdf
+2026-04-19 00:22:37,558 - __main__ - INFO - ============================================================
+2026-04-19 00:22:37,583 - werkzeug - WARNING -  * Debugger is active!
+2026-04-19 00:22:37,598 - werkzeug - INFO -  * Debugger PIN: 682-638-364
+2026-04-19 00:22:45,242 - __main__ - INFO - ============================================================
+2026-04-19 00:22:45,243 - __main__ - INFO - E_Print PDF 解析服务启动中...
+2026-04-19 00:22:45,243 - __main__ - INFO - ============================================================
+2026-04-19 00:22:45,243 - __main__ - INFO - 上传目录: /Users/markov_lee/Code/E_Print/backend/temp
+2026-04-19 00:22:45,243 - __main__ - INFO - 日志目录: /Users/markov_lee/Code/E_Print/backend/logs
+2026-04-19 00:22:45,243 - __main__ - INFO - 允许的文件类型: {'pdf'}
+2026-04-19 00:22:45,243 - __main__ - INFO - 最大文件大小: 16.0 MB
+2026-04-19 00:22:45,243 - __main__ - INFO - ============================================================
+2026-04-19 00:22:45,243 - __main__ - INFO - 服务运行在: http://localhost:8000
+2026-04-19 00:22:45,243 - __main__ - INFO - API 端点: http://localhost:8000/api/order/parse-pdf
+2026-04-19 00:22:45,243 - __main__ - INFO - ============================================================
+2026-04-19 00:22:45,275 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.1.9:8000
+2026-04-19 00:22:45,275 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2026-04-19 00:22:45,275 - werkzeug - INFO -  * Restarting with stat
+2026-04-19 00:22:45,364 - __main__ - INFO - ============================================================
+2026-04-19 00:22:45,364 - __main__ - INFO - E_Print PDF 解析服务启动中...
+2026-04-19 00:22:45,364 - __main__ - INFO - ============================================================
+2026-04-19 00:22:45,364 - __main__ - INFO - 上传目录: /Users/markov_lee/Code/E_Print/backend/temp
+2026-04-19 00:22:45,364 - __main__ - INFO - 日志目录: /Users/markov_lee/Code/E_Print/backend/logs
+2026-04-19 00:22:45,364 - __main__ - INFO - 允许的文件类型: {'pdf'}
+2026-04-19 00:22:45,364 - __main__ - INFO - 最大文件大小: 16.0 MB
+2026-04-19 00:22:45,364 - __main__ - INFO - ============================================================
+2026-04-19 00:22:45,364 - __main__ - INFO - 服务运行在: http://localhost:8000
+2026-04-19 00:22:45,364 - __main__ - INFO - API 端点: http://localhost:8000/api/order/parse-pdf
+2026-04-19 00:22:45,364 - __main__ - INFO - ============================================================
+2026-04-19 00:22:45,380 - werkzeug - WARNING -  * Debugger is active!
+2026-04-19 00:22:45,389 - werkzeug - INFO -  * Debugger PIN: 682-638-364
+2026-04-19 00:22:53,184 - werkzeug - INFO - 127.0.0.1 - - [19/Apr/2026 00:22:53] "GET /api/health HTTP/1.1" 200 -
+2026-04-19 00:23:13,558 - __main__ - INFO - ========== 新的解析请求 ==========
+2026-04-19 00:23:13,563 - __main__ - INFO - 收到文件: -V8.pdf
+2026-04-19 00:23:13,644 - __main__ - INFO - ✓ 成功解析订单数据，字段数: 58
+2026-04-19 00:23:13,644 - __main__ - INFO - 解析结果（非空字段）: {'customer': '当纳利亚洲印务有限公司', 'dingDanShuLiang': 30000, 'chuYangShuLiang': 1, 'xiaZiliaodaiRiqiRequired': '2025-10-29', 'productName': '903B23575 AM-绿女巫塔罗牌(美书盒)V8The Green Witch’s Oracle Deck', 'chaoBiLiShuLiang': 1500, 'order_id': '25025769', 'zongShuLiang': 30001, 'jiuBianMa': '903B23574', 'isbn': '9781507221136', 'chuYangShuoMing': '454500', 'customerPO': '460308806', 'baoJiaDanHao': '装订方式', 'zhuangDingFangShi': '彩盒', 'chuHuoShuLiang': 300000, 'chuHuoRiqiRequired': '2025-11-24', 'xiLieDanMing': 'Spot job', 'guigeGaoMm': 127, 'qiTaShiBie': '宽', 'guigeKuanMm': 889, 'chanPinDaLei': 'Others', 'ziLeiXing': '厚', 'fscType': 'Non FSC', 'genSeZhiShi': '专色跟色尺,其余跟签色', 'keLaiXinxi': 'CTP再版(翻印)', 'baoLiuQianSe': 'N', 'chanPinMingXi': [{'neiWen': '板纸盒外 裱纸', 'yongZhiChiCun': '', 'houDu': 0, 'keZhong': 128, 'chanDi': '国产', 'pinPai': '金太阳', 'zhiLei': '双面铜 版纸 (A2高 光)', 'FSC': 'FSC Mix Credit', 'yeShu': 4, 'yinSe': 'CYMK/', 'zhuanSe': '/', 'biaoMianChuLi': '单面过哑 胶,压凹', 'zhuangDingGongYi': '收缩包 装', 'beiZhu': '手指位'}, {'neiWen': '板纸盒板 纸', 'yongZhiChiCun': '', 'houDu': 25, 'keZhong': 0, 'chanDi': '国产', 'pinPai': '名欧', 'zhiLei': '灰板纸', 'FSC': 'FSC Recycl ed 100%', 'yeShu': 4, 'yinSe': '/', 'zhuanSe': '/', 'biaoMianChuLi': '', 'zhuangDingGongYi': '', 'beiZhu': ''}, {'neiWen': '板纸盒内 裱纸', 'yongZhiChiCun': '', 'houDu': 0, 'keZhong': 120, 'chanDi': '国产', 'pinPai': '金太阳', 'zhiLei': '双胶纸', 'FSC': 'FSC Mix Credit', 'yeShu': 4, 'yinSe': '/', 'zhuanSe': '[染PMS Black U][过印刷机 哑水油]/', 'biaoMianChuLi': '', 'zhuangDingGongYi': '', 'beiZhu': ''}, {'neiWen': '卡片', 'yongZhiChiCun': '', 'houDu': 0, 'keZhong': 400, 'chanDi': '国产', 'pinPai': '金太阳', 'zhiLei': '双面铜 版卡 (高光)', 'FSC': 'FSC Mix Credit', 'yeShu': 100, 'yinSe': 'CYMK/CYMK', 'zhuanSe': '[过印刷机哑 水油]/[过印刷 机哑水油]', 'biaoMianChuLi': '', 'zhuangDingGongYi': '圆角', 'beiZhu': ''}], 'zhuangDingShouGongYaoQiu': '1. 天地盒介半穿，天盖打20mm手指位 卡片尺寸W*H:88.9*127mm，4角切4分圆角 卡片正反方向按头对头，脚对脚方向做，卡片黑色面朝上，有颜色的图案面朝下 天盒外裱纸指甲孔离克字仅2.6mm,小心切到字', 'qiTa': '配套书包装：内含一本平装书+50张卡片', 'teShuYaoQiu': '1.此客户包裹要求去塑使用环保材质包装，寄给客人的折排/样本/白样都必须禁止使用珍珠棉/泡泡袋/塑料等不环保材质。 2.此客户V1新单请提供2本样给AE', 'dingDanPingShenXinXi': '"1、1本胶装书+50张卡片按工单顺序入书盒后收缩包装为一套 2、印刷书盒面纸需要拿大货书本和卡片试装，OK才可以印刷，啤书盒灰板和面纸需要拿大货书本卡片试装，OK才可以做大货 3、卡片按分条分块原则编排，印刷》啤》手工排卡》切成品》冲圆角 4、啤封面需拿毛书对比脊宽， 5、胶装书封面拉大排宽度拉大到220MM确保可以上胶装机"'}
+2026-04-19 00:23:13,645 - __main__ - INFO - ✓ 已删除临时文件: -V8.pdf
+2026-04-19 00:23:13,645 - __main__ - INFO - ========== 解析成功 ==========
+
+2026-04-19 00:23:13,645 - werkzeug - INFO - 127.0.0.1 - - [19/Apr/2026 00:23:13] "POST /api/order/parse-pdf HTTP/1.1" 200 -
+2026-04-19 00:24:05,981 - werkzeug - INFO -  * Detected change in '/Users/markov_lee/Code/E_Print/backend/table_parser.py', reloading
+2026-04-19 00:24:06,017 - werkzeug - INFO -  * Restarting with stat
+2026-04-19 00:24:06,184 - __main__ - INFO - ============================================================
+2026-04-19 00:24:06,184 - __main__ - INFO - E_Print PDF 解析服务启动中...
+2026-04-19 00:24:06,184 - __main__ - INFO - ============================================================
+2026-04-19 00:24:06,184 - __main__ - INFO - 上传目录: /Users/markov_lee/Code/E_Print/backend/temp
+2026-04-19 00:24:06,184 - __main__ - INFO - 日志目录: /Users/markov_lee/Code/E_Print/backend/logs
+2026-04-19 00:24:06,184 - __main__ - INFO - 允许的文件类型: {'pdf'}
+2026-04-19 00:24:06,184 - __main__ - INFO - 最大文件大小: 16.0 MB
+2026-04-19 00:24:06,184 - __main__ - INFO - ============================================================
+2026-04-19 00:24:06,185 - __main__ - INFO - 服务运行在: http://localhost:8000
+2026-04-19 00:24:06,185 - __main__ - INFO - API 端点: http://localhost:8000/api/order/parse-pdf
+2026-04-19 00:24:06,185 - __main__ - INFO - ============================================================
+2026-04-19 00:24:06,210 - werkzeug - WARNING -  * Debugger is active!
+2026-04-19 00:24:06,220 - werkzeug - INFO -  * Debugger PIN: 682-638-364
+2026-04-19 00:24:08,234 - werkzeug - INFO -  * Detected change in '/Users/markov_lee/Code/E_Print/backend/table_parser.py', reloading
+2026-04-19 00:24:08,271 - werkzeug - INFO -  * Restarting with stat
+2026-04-19 00:24:08,371 - __main__ - INFO - ============================================================
+2026-04-19 00:24:08,371 - __main__ - INFO - E_Print PDF 解析服务启动中...
+2026-04-19 00:24:08,371 - __main__ - INFO - ============================================================
+2026-04-19 00:24:08,371 - __main__ - INFO - 上传目录: /Users/markov_lee/Code/E_Print/backend/temp
+2026-04-19 00:24:08,371 - __main__ - INFO - 日志目录: /Users/markov_lee/Code/E_Print/backend/logs
+2026-04-19 00:24:08,372 - __main__ - INFO - 允许的文件类型: {'pdf'}
+2026-04-19 00:24:08,372 - __main__ - INFO - 最大文件大小: 16.0 MB
+2026-04-19 00:24:08,372 - __main__ - INFO - ============================================================
+2026-04-19 00:24:08,372 - __main__ - INFO - 服务运行在: http://localhost:8000
+2026-04-19 00:24:08,372 - __main__ - INFO - API 端点: http://localhost:8000/api/order/parse-pdf
+2026-04-19 00:24:08,372 - __main__ - INFO - ============================================================
+2026-04-19 00:24:08,387 - werkzeug - WARNING -  * Debugger is active!
+2026-04-19 00:24:08,396 - werkzeug - INFO -  * Debugger PIN: 682-638-364
+2026-04-19 00:24:37,471 - __main__ - INFO - ============================================================
+2026-04-19 00:24:37,471 - __main__ - INFO - E_Print PDF 解析服务启动中...
+2026-04-19 00:24:37,471 - __main__ - INFO - ============================================================
+2026-04-19 00:24:37,471 - __main__ - INFO - 上传目录: /Users/markov_lee/Code/E_Print/backend/temp
+2026-04-19 00:24:37,471 - __main__ - INFO - 日志目录: /Users/markov_lee/Code/E_Print/backend/logs
+2026-04-19 00:24:37,471 - __main__ - INFO - 允许的文件类型: {'pdf'}
+2026-04-19 00:24:37,471 - __main__ - INFO - 最大文件大小: 16.0 MB
+2026-04-19 00:24:37,471 - __main__ - INFO - ============================================================
+2026-04-19 00:24:37,471 - __main__ - INFO - 服务运行在: http://localhost:8000
+2026-04-19 00:24:37,471 - __main__ - INFO - API 端点: http://localhost:8000/api/order/parse-pdf
+2026-04-19 00:24:37,471 - __main__ - INFO - ============================================================
+2026-04-19 00:24:37,510 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.1.9:8000
+2026-04-19 00:24:37,510 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2026-04-19 00:24:37,510 - werkzeug - INFO -  * Restarting with stat
+2026-04-19 00:24:37,602 - __main__ - INFO - ============================================================
+2026-04-19 00:24:37,602 - __main__ - INFO - E_Print PDF 解析服务启动中...
+2026-04-19 00:24:37,602 - __main__ - INFO - ============================================================
+2026-04-19 00:24:37,602 - __main__ - INFO - 上传目录: /Users/markov_lee/Code/E_Print/backend/temp
+2026-04-19 00:24:37,602 - __main__ - INFO - 日志目录: /Users/markov_lee/Code/E_Print/backend/logs
+2026-04-19 00:24:37,602 - __main__ - INFO - 允许的文件类型: {'pdf'}
+2026-04-19 00:24:37,602 - __main__ - INFO - 最大文件大小: 16.0 MB
+2026-04-19 00:24:37,602 - __main__ - INFO - ============================================================
+2026-04-19 00:24:37,602 - __main__ - INFO - 服务运行在: http://localhost:8000
+2026-04-19 00:24:37,602 - __main__ - INFO - API 端点: http://localhost:8000/api/order/parse-pdf
+2026-04-19 00:24:37,602 - __main__ - INFO - ============================================================
+2026-04-19 00:24:37,617 - werkzeug - WARNING -  * Debugger is active!
+2026-04-19 00:24:37,625 - werkzeug - INFO -  * Debugger PIN: 682-638-364
+2026-04-19 00:24:50,641 - __main__ - INFO - ========== 新的解析请求 ==========
+2026-04-19 00:24:50,646 - __main__ - INFO - 收到文件: -V8.pdf
+2026-04-19 00:27:45,188 - werkzeug - INFO -  * Detected change in '/Users/markov_lee/Code/E_Print/backend/table_parser.py', reloading
+2026-04-19 00:28:19,412 - __main__ - INFO - ============================================================
+2026-04-19 00:28:19,412 - __main__ - INFO - E_Print PDF 解析服务启动中...
+2026-04-19 00:28:19,412 - __main__ - INFO - ============================================================
+2026-04-19 00:28:19,412 - __main__ - INFO - 上传目录: /Users/markov_lee/Code/E_Print/backend/temp
+2026-04-19 00:28:19,412 - __main__ - INFO - 日志目录: /Users/markov_lee/Code/E_Print/backend/logs
+2026-04-19 00:28:19,412 - __main__ - INFO - 允许的文件类型: {'pdf'}
+2026-04-19 00:28:19,412 - __main__ - INFO - 最大文件大小: 16.0 MB
+2026-04-19 00:28:19,412 - __main__ - INFO - ============================================================
+2026-04-19 00:28:19,412 - __main__ - INFO - 服务运行在: http://localhost:8000
+2026-04-19 00:28:19,412 - __main__ - INFO - API 端点: http://localhost:8000/api/order/parse-pdf
+2026-04-19 00:28:19,412 - __main__ - INFO - ============================================================
+2026-04-19 00:28:19,456 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.1.9:8000
+2026-04-19 00:28:19,459 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2026-04-19 00:28:19,460 - werkzeug - INFO -  * Restarting with stat
+2026-04-19 00:28:19,554 - __main__ - INFO - ============================================================
+2026-04-19 00:28:19,554 - __main__ - INFO - E_Print PDF 解析服务启动中...
+2026-04-19 00:28:19,554 - __main__ - INFO - ============================================================
+2026-04-19 00:28:19,554 - __main__ - INFO - 上传目录: /Users/markov_lee/Code/E_Print/backend/temp
+2026-04-19 00:28:19,554 - __main__ - INFO - 日志目录: /Users/markov_lee/Code/E_Print/backend/logs
+2026-04-19 00:28:19,554 - __main__ - INFO - 允许的文件类型: {'pdf'}
+2026-04-19 00:28:19,554 - __main__ - INFO - 最大文件大小: 16.0 MB
+2026-04-19 00:28:19,554 - __main__ - INFO - ============================================================
+2026-04-19 00:28:19,554 - __main__ - INFO - 服务运行在: http://localhost:8000
+2026-04-19 00:28:19,554 - __main__ - INFO - API 端点: http://localhost:8000/api/order/parse-pdf
+2026-04-19 00:28:19,554 - __main__ - INFO - ============================================================
+2026-04-19 00:28:19,572 - werkzeug - WARNING -  * Debugger is active!
+2026-04-19 00:28:19,581 - werkzeug - INFO -  * Debugger PIN: 682-638-364
+2026-04-19 00:28:28,260 - werkzeug - INFO - 127.0.0.1 - - [19/Apr/2026 00:28:28] "GET /api/health HTTP/1.1" 200 -
+2026-04-19 00:29:19,845 - __main__ - INFO - ============================================================
+2026-04-19 00:29:19,845 - __main__ - INFO - E_Print PDF 解析服务启动中...
+2026-04-19 00:29:19,845 - __main__ - INFO - ============================================================
+2026-04-19 00:29:19,845 - __main__ - INFO - 上传目录: /Users/markov_lee/Code/E_Print/backend/temp
+2026-04-19 00:29:19,845 - __main__ - INFO - 日志目录: /Users/markov_lee/Code/E_Print/backend/logs
+2026-04-19 00:29:19,845 - __main__ - INFO - 允许的文件类型: {'pdf'}
+2026-04-19 00:29:19,845 - __main__ - INFO - 最大文件大小: 16.0 MB
+2026-04-19 00:29:19,845 - __main__ - INFO - ============================================================
+2026-04-19 00:29:19,845 - __main__ - INFO - 服务运行在: http://localhost:8000
+2026-04-19 00:29:19,845 - __main__ - INFO - API 端点: http://localhost:8000/api/order/parse-pdf
+2026-04-19 00:29:19,845 - __main__ - INFO - ============================================================
+2026-04-19 00:29:19,874 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.1.9:8000
+2026-04-19 00:29:19,874 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2026-04-19 00:29:19,875 - werkzeug - INFO -  * Restarting with stat
+2026-04-19 00:29:19,958 - __main__ - INFO - ============================================================
+2026-04-19 00:29:19,958 - __main__ - INFO - E_Print PDF 解析服务启动中...
+2026-04-19 00:29:19,958 - __main__ - INFO - ============================================================
+2026-04-19 00:29:19,958 - __main__ - INFO - 上传目录: /Users/markov_lee/Code/E_Print/backend/temp
+2026-04-19 00:29:19,958 - __main__ - INFO - 日志目录: /Users/markov_lee/Code/E_Print/backend/logs
+2026-04-19 00:29:19,958 - __main__ - INFO - 允许的文件类型: {'pdf'}
+2026-04-19 00:29:19,958 - __main__ - INFO - 最大文件大小: 16.0 MB
+2026-04-19 00:29:19,958 - __main__ - INFO - ============================================================
+2026-04-19 00:29:19,958 - __main__ - INFO - 服务运行在: http://localhost:8000
+2026-04-19 00:29:19,958 - __main__ - INFO - API 端点: http://localhost:8000/api/order/parse-pdf
+2026-04-19 00:29:19,958 - __main__ - INFO - ============================================================
+2026-04-19 00:29:19,973 - werkzeug - WARNING -  * Debugger is active!
+2026-04-19 00:29:19,980 - werkzeug - INFO -  * Debugger PIN: 682-638-364
+2026-04-19 00:29:39,157 - werkzeug - INFO - 127.0.0.1 - - [19/Apr/2026 00:29:39] "GET /api/health HTTP/1.1" 200 -
+2026-04-19 00:29:45,055 - __main__ - INFO - ========== 新的解析请求 ==========
+2026-04-19 00:29:45,059 - __main__ - INFO - 收到文件: -V8.pdf
+2026-04-19 00:29:45,133 - __main__ - INFO - ✓ 成功解析订单数据，字段数: 58
+2026-04-19 00:29:45,133 - __main__ - INFO - 解析结果（非空字段）: {'customer': '当纳利亚洲印务有限公司', 'dingDanShuLiang': 30000, 'chuYangShuLiang': 1, 'xiaZiliaodaiRiqiPromise': '2025-10-29', 'productName': '903B23575 AM-绿女巫塔罗牌(美书盒)V8The Green Witch’s Oracle Deck', 'chaoBiLiShuLiang': 1500, 'order_id': '25025769', 'zongShuLiang': 30001, 'jiuBianMa': '903B23574', 'isbn': '9781507221136', 'chuYangShuoMing': '454500', 'customerPO': '460308806', 'baoJiaDanHao': '装订方式', 'zhuangDingFangShi': '彩盒', 'chuHuoShuLiang': 300000, 'chuHuoRiqiPromise': '2025-11-24', 'xiLieDanMing': 'Spot job', 'guigeGaoMm': 127, 'qiTaShiBie': '宽', 'guigeKuanMm': 889, 'chanPinDaLei': 'Others', 'ziLeiXing': '厚', 'fscType': 'Non FSC', 'genSeZhiShi': '专色跟色尺,其余跟签色', 'keLaiXinxi': 'CTP再版(翻印)', 'baoLiuQianSe': 'N', 'chanPinMingXi': [{'neiWen': '板纸盒外 裱纸', 'yongZhiChiCun': '', 'houDu': 0, 'keZhong': 128, 'chanDi': '国产', 'pinPai': '金太阳', 'zhiLei': '双面铜 版纸 (A2高 光)', 'FSC': 'FSC Mix Credit', 'yeShu': 4, 'yinSe': 'CYMK/', 'zhuanSe': '/', 'biaoMianChuLi': '单面过哑 胶,压凹', 'zhuangDingGongYi': '收缩包 装', 'beiZhu': '手指位'}, {'neiWen': '板纸盒板 纸', 'yongZhiChiCun': '', 'houDu': 25, 'keZhong': 0, 'chanDi': '国产', 'pinPai': '名欧', 'zhiLei': '灰板纸', 'FSC': 'FSC Recycl ed 100%', 'yeShu': 4, 'yinSe': '/', 'zhuanSe': '/', 'biaoMianChuLi': '', 'zhuangDingGongYi': '', 'beiZhu': ''}, {'neiWen': '板纸盒内 裱纸', 'yongZhiChiCun': '', 'houDu': 0, 'keZhong': 120, 'chanDi': '国产', 'pinPai': '金太阳', 'zhiLei': '双胶纸', 'FSC': 'FSC Mix Credit', 'yeShu': 4, 'yinSe': '/', 'zhuanSe': '[染PMS Black U][过印刷机 哑水油]/', 'biaoMianChuLi': '', 'zhuangDingGongYi': '', 'beiZhu': ''}, {'neiWen': '卡片', 'yongZhiChiCun': '', 'houDu': 0, 'keZhong': 400, 'chanDi': '国产', 'pinPai': '金太阳', 'zhiLei': '双面铜 版卡 (高光)', 'FSC': 'FSC Mix Credit', 'yeShu': 100, 'yinSe': 'CYMK/CYMK', 'zhuanSe': '[过印刷机哑 水油]/[过印刷 机哑水油]', 'biaoMianChuLi': '', 'zhuangDingGongYi': '圆角', 'beiZhu': ''}], 'zhuangDingShouGongYaoQiu': '1. 天地盒介半穿，天盖打20mm手指位 卡片尺寸W*H:88.9*127mm，4角切4分圆角 卡片正反方向按头对头，脚对脚方向做，卡片黑色面朝上，有颜色的图案面朝下 天盒外裱纸指甲孔离克字仅2.6mm,小心切到字', 'qiTa': '配套书包装：内含一本平装书+50张卡片', 'teShuYaoQiu': '1.此客户包裹要求去塑使用环保材质包装，寄给客人的折排/样本/白样都必须禁止使用珍珠棉/泡泡袋/塑料等不环保材质。 2.此客户V1新单请提供2本样给AE', 'dingDanPingShenXinXi': '"1、1本胶装书+50张卡片按工单顺序入书盒后收缩包装为一套 2、印刷书盒面纸需要拿大货书本和卡片试装，OK才可以印刷，啤书盒灰板和面纸需要拿大货书本卡片试装，OK才可以做大货 3、卡片按分条分块原则编排，印刷》啤》手工排卡》切成品》冲圆角 4、啤封面需拿毛书对比脊宽， 5、胶装书封面拉大排宽度拉大到220MM确保可以上胶装机"'}
+2026-04-19 00:29:45,133 - __main__ - INFO - ✓ 已删除临时文件: -V8.pdf
+2026-04-19 00:29:45,133 - __main__ - INFO - ========== 解析成功 ==========
+
+2026-04-19 00:29:45,133 - werkzeug - INFO - 127.0.0.1 - - [19/Apr/2026 00:29:45] "POST /api/order/parse-pdf HTTP/1.1" 200 -
+2026-04-19 00:31:11,755 - werkzeug - INFO -  * Detected change in '/Users/markov_lee/Code/E_Print/backend/table_parser.py', reloading
+2026-04-19 00:31:11,795 - werkzeug - INFO -  * Restarting with stat
+2026-04-19 00:31:11,961 - __main__ - INFO - ============================================================
+2026-04-19 00:31:11,961 - __main__ - INFO - E_Print PDF 解析服务启动中...
+2026-04-19 00:31:11,961 - __main__ - INFO - ============================================================
+2026-04-19 00:31:11,961 - __main__ - INFO - 上传目录: /Users/markov_lee/Code/E_Print/backend/temp
+2026-04-19 00:31:11,961 - __main__ - INFO - 日志目录: /Users/markov_lee/Code/E_Print/backend/logs
+2026-04-19 00:31:11,961 - __main__ - INFO - 允许的文件类型: {'pdf'}
+2026-04-19 00:31:11,961 - __main__ - INFO - 最大文件大小: 16.0 MB
+2026-04-19 00:31:11,961 - __main__ - INFO - ============================================================
+2026-04-19 00:31:11,961 - __main__ - INFO - 服务运行在: http://localhost:8000
+2026-04-19 00:31:11,961 - __main__ - INFO - API 端点: http://localhost:8000/api/order/parse-pdf
+2026-04-19 00:31:11,961 - __main__ - INFO - ============================================================
+2026-04-19 00:31:11,987 - werkzeug - WARNING -  * Debugger is active!
+2026-04-19 00:31:11,998 - werkzeug - INFO -  * Debugger PIN: 682-638-364
+2026-04-19 00:31:18,158 - __main__ - INFO - ============================================================
+2026-04-19 00:31:18,158 - __main__ - INFO - E_Print PDF 解析服务启动中...
+2026-04-19 00:31:18,158 - __main__ - INFO - ============================================================
+2026-04-19 00:31:18,158 - __main__ - INFO - 上传目录: /Users/markov_lee/Code/E_Print/backend/temp
+2026-04-19 00:31:18,158 - __main__ - INFO - 日志目录: /Users/markov_lee/Code/E_Print/backend/logs
+2026-04-19 00:31:18,158 - __main__ - INFO - 允许的文件类型: {'pdf'}
+2026-04-19 00:31:18,158 - __main__ - INFO - 最大文件大小: 16.0 MB
+2026-04-19 00:31:18,158 - __main__ - INFO - ============================================================
+2026-04-19 00:31:18,158 - __main__ - INFO - 服务运行在: http://localhost:8000
+2026-04-19 00:31:18,158 - __main__ - INFO - API 端点: http://localhost:8000/api/order/parse-pdf
+2026-04-19 00:31:18,158 - __main__ - INFO - ============================================================
+2026-04-19 00:31:18,188 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.1.9:8000
+2026-04-19 00:31:18,191 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2026-04-19 00:31:18,191 - werkzeug - INFO -  * Restarting with stat
+2026-04-19 00:31:18,277 - __main__ - INFO - ============================================================
+2026-04-19 00:31:18,277 - __main__ - INFO - E_Print PDF 解析服务启动中...
+2026-04-19 00:31:18,277 - __main__ - INFO - ============================================================
+2026-04-19 00:31:18,277 - __main__ - INFO - 上传目录: /Users/markov_lee/Code/E_Print/backend/temp
+2026-04-19 00:31:18,277 - __main__ - INFO - 日志目录: /Users/markov_lee/Code/E_Print/backend/logs
+2026-04-19 00:31:18,277 - __main__ - INFO - 允许的文件类型: {'pdf'}
+2026-04-19 00:31:18,277 - __main__ - INFO - 最大文件大小: 16.0 MB
+2026-04-19 00:31:18,277 - __main__ - INFO - ============================================================
+2026-04-19 00:31:18,277 - __main__ - INFO - 服务运行在: http://localhost:8000
+2026-04-19 00:31:18,277 - __main__ - INFO - API 端点: http://localhost:8000/api/order/parse-pdf
+2026-04-19 00:31:18,277 - __main__ - INFO - ============================================================
+2026-04-19 00:31:18,293 - werkzeug - WARNING -  * Debugger is active!
+2026-04-19 00:31:18,299 - werkzeug - INFO -  * Debugger PIN: 682-638-364
+2026-04-19 00:31:25,134 - werkzeug - INFO - 127.0.0.1 - - [19/Apr/2026 00:31:25] "GET /api/health HTTP/1.1" 200 -
+2026-04-19 00:31:56,413 - __main__ - INFO - ========== 新的解析请求 ==========
+2026-04-19 00:31:56,417 - __main__ - INFO - 收到文件: -V8.pdf
+2026-04-19 00:31:56,500 - __main__ - INFO - ✓ 成功解析订单数据，字段数: 58
+2026-04-19 00:31:56,500 - __main__ - INFO - 解析结果（非空字段）: {'customer': '当纳利亚洲印务有限公司', 'dingDanShuLiang': 30000, 'chuYangShuLiang': 1, 'xiaZiliaodaiRiqiPromise': '2025-10-29', 'productName': '903B23575 AM-绿女巫塔罗牌(美书盒)V8The Green Witch’s Oracle Deck', 'chaoBiLiShuLiang': 1500, 'order_id': '25025769', 'zongShuLiang': 30001, 'jiuBianMa': '903B23574', 'isbn': '9781507221136', 'chuYangShuoMing': '454500', 'customerPO': '460308806', 'baoJiaDanHao': '装订方式', 'zhuangDingFangShi': '彩盒', 'chuHuoShuLiang': 30000, 'chuHuoRiqiPromise': '2025-11-24', 'xiLieDanMing': 'Spot job', 'guigeGaoMm': 127, 'qiTaShiBie': '宽', 'guigeKuanMm': 88, 'chanPinDaLei': 'Others', 'ziLeiXing': '厚', 'fscType': 'Non FSC', 'genSeZhiShi': '专色跟色尺,其余跟签色', 'keLaiXinxi': 'CTP再版(翻印)', 'baoLiuQianSe': 'N', 'chanPinMingXi': [{'neiWen': '板纸盒外 裱纸', 'yongZhiChiCun': '', 'houDu': 0, 'keZhong': 128, 'chanDi': '国产', 'pinPai': '金太阳', 'zhiLei': '双面铜 版纸 (A2高 光)', 'FSC': 'FSC Mix Credit', 'yeShu': 4, 'yinSe': 'CYMK/', 'zhuanSe': '/', 'biaoMianChuLi': '单面过哑 胶,压凹', 'zhuangDingGongYi': '收缩包 装', 'beiZhu': '手指位'}, {'neiWen': '板纸盒板 纸', 'yongZhiChiCun': '', 'houDu': 2, 'keZhong': 0, 'chanDi': '国产', 'pinPai': '名欧', 'zhiLei': '灰板纸', 'FSC': 'FSC Recycl ed 100%', 'yeShu': 4, 'yinSe': '/', 'zhuanSe': '/', 'biaoMianChuLi': '', 'zhuangDingGongYi': '', 'beiZhu': ''}, {'neiWen': '板纸盒内 裱纸', 'yongZhiChiCun': '', 'houDu': 0, 'keZhong': 120, 'chanDi': '国产', 'pinPai': '金太阳', 'zhiLei': '双胶纸', 'FSC': 'FSC Mix Credit', 'yeShu': 4, 'yinSe': '/', 'zhuanSe': '[染PMS Black U][过印刷机 哑水油]/', 'biaoMianChuLi': '', 'zhuangDingGongYi': '', 'beiZhu': ''}, {'neiWen': '卡片', 'yongZhiChiCun': '', 'houDu': 0, 'keZhong': 400, 'chanDi': '国产', 'pinPai': '金太阳', 'zhiLei': '双面铜 版卡 (高光)', 'FSC': 'FSC Mix Credit', 'yeShu': 100, 'yinSe': 'CYMK/CYMK', 'zhuanSe': '[过印刷机哑 水油]/[过印刷 机哑水油]', 'biaoMianChuLi': '', 'zhuangDingGongYi': '圆角', 'beiZhu': ''}], 'zhuangDingShouGongYaoQiu': '1. 天地盒介半穿，天盖打20mm手指位 卡片尺寸W*H:88.9*127mm，4角切4分圆角 卡片正反方向按头对头，脚对脚方向做，卡片黑色面朝上，有颜色的图案面朝下 天盒外裱纸指甲孔离克字仅2.6mm,小心切到字', 'qiTa': '配套书包装：内含一本平装书+50张卡片', 'teShuYaoQiu': '1.此客户包裹要求去塑使用环保材质包装，寄给客人的折排/样本/白样都必须禁止使用珍珠棉/泡泡袋/塑料等不环保材质。 2.此客户V1新单请提供2本样给AE', 'dingDanPingShenXinXi': '"1、1本胶装书+50张卡片按工单顺序入书盒后收缩包装为一套 2、印刷书盒面纸需要拿大货书本和卡片试装，OK才可以印刷，啤书盒灰板和面纸需要拿大货书本卡片试装，OK才可以做大货 3、卡片按分条分块原则编排，印刷》啤》手工排卡》切成品》冲圆角 4、啤封面需拿毛书对比脊宽， 5、胶装书封面拉大排宽度拉大到220MM确保可以上胶装机"'}
+2026-04-19 00:31:56,501 - __main__ - INFO - ✓ 已删除临时文件: -V8.pdf
+2026-04-19 00:31:56,501 - __main__ - INFO - ========== 解析成功 ==========
+
+2026-04-19 00:31:56,501 - werkzeug - INFO - 127.0.0.1 - - [19/Apr/2026 00:31:56] "POST /api/order/parse-pdf HTTP/1.1" 200 -
+2026-04-19 00:33:11,053 - werkzeug - INFO -  * Detected change in '/Users/markov_lee/Code/E_Print/backend/table_parser.py', reloading
+2026-04-19 00:33:11,110 - werkzeug - INFO -  * Restarting with stat
+2026-04-19 00:33:11,283 - __main__ - INFO - ============================================================
+2026-04-19 00:33:11,283 - __main__ - INFO - E_Print PDF 解析服务启动中...
+2026-04-19 00:33:11,283 - __main__ - INFO - ============================================================
+2026-04-19 00:33:11,283 - __main__ - INFO - 上传目录: /Users/markov_lee/Code/E_Print/backend/temp
+2026-04-19 00:33:11,283 - __main__ - INFO - 日志目录: /Users/markov_lee/Code/E_Print/backend/logs
+2026-04-19 00:33:11,283 - __main__ - INFO - 允许的文件类型: {'pdf'}
+2026-04-19 00:33:11,283 - __main__ - INFO - 最大文件大小: 16.0 MB
+2026-04-19 00:33:11,283 - __main__ - INFO - ============================================================
+2026-04-19 00:33:11,283 - __main__ - INFO - 服务运行在: http://localhost:8000
+2026-04-19 00:33:11,283 - __main__ - INFO - API 端点: http://localhost:8000/api/order/parse-pdf
+2026-04-19 00:33:11,283 - __main__ - INFO - ============================================================
+2026-04-19 00:33:11,317 - werkzeug - WARNING -  * Debugger is active!
+2026-04-19 00:33:11,333 - werkzeug - INFO -  * Debugger PIN: 682-638-364
+2026-04-19 00:33:24,432 - werkzeug - INFO -  * Detected change in '/Users/markov_lee/Code/E_Print/backend/table_parser.py', reloading
+2026-04-19 00:33:24,472 - werkzeug - INFO -  * Restarting with stat
+2026-04-19 00:33:24,612 - __main__ - INFO - ============================================================
+2026-04-19 00:33:24,612 - __main__ - INFO - E_Print PDF 解析服务启动中...
+2026-04-19 00:33:24,612 - __main__ - INFO - ============================================================
+2026-04-19 00:33:24,612 - __main__ - INFO - 上传目录: /Users/markov_lee/Code/E_Print/backend/temp
+2026-04-19 00:33:24,612 - __main__ - INFO - 日志目录: /Users/markov_lee/Code/E_Print/backend/logs
+2026-04-19 00:33:24,612 - __main__ - INFO - 允许的文件类型: {'pdf'}
+2026-04-19 00:33:24,612 - __main__ - INFO - 最大文件大小: 16.0 MB
+2026-04-19 00:33:24,612 - __main__ - INFO - ============================================================
+2026-04-19 00:33:24,612 - __main__ - INFO - 服务运行在: http://localhost:8000
+2026-04-19 00:33:24,612 - __main__ - INFO - API 端点: http://localhost:8000/api/order/parse-pdf
+2026-04-19 00:33:24,612 - __main__ - INFO - ============================================================
+2026-04-19 00:33:24,634 - werkzeug - WARNING -  * Debugger is active!
+2026-04-19 00:33:24,645 - werkzeug - INFO -  * Debugger PIN: 682-638-364
+2026-04-19 00:33:44,779 - werkzeug - INFO -  * Detected change in '/Users/markov_lee/Code/E_Print/backend/table_parser.py', reloading
+2026-04-19 00:33:44,823 - werkzeug - INFO -  * Restarting with stat
+2026-04-19 00:33:44,975 - __main__ - INFO - ============================================================
+2026-04-19 00:33:44,976 - __main__ - INFO - E_Print PDF 解析服务启动中...
+2026-04-19 00:33:44,976 - __main__ - INFO - ============================================================
+2026-04-19 00:33:44,976 - __main__ - INFO - 上传目录: /Users/markov_lee/Code/E_Print/backend/temp
+2026-04-19 00:33:44,976 - __main__ - INFO - 日志目录: /Users/markov_lee/Code/E_Print/backend/logs
+2026-04-19 00:33:44,976 - __main__ - INFO - 允许的文件类型: {'pdf'}
+2026-04-19 00:33:44,976 - __main__ - INFO - 最大文件大小: 16.0 MB
+2026-04-19 00:33:44,976 - __main__ - INFO - ============================================================
+2026-04-19 00:33:44,976 - __main__ - INFO - 服务运行在: http://localhost:8000
+2026-04-19 00:33:44,976 - __main__ - INFO - API 端点: http://localhost:8000/api/order/parse-pdf
+2026-04-19 00:33:44,976 - __main__ - INFO - ============================================================
+2026-04-19 00:33:44,998 - werkzeug - WARNING -  * Debugger is active!
+2026-04-19 00:33:45,006 - werkzeug - INFO -  * Debugger PIN: 682-638-364
+2026-04-19 00:35:24,717 - __main__ - INFO - ============================================================
+2026-04-19 00:35:24,717 - __main__ - INFO - E_Print PDF 解析服务启动中...
+2026-04-19 00:35:24,717 - __main__ - INFO - ============================================================
+2026-04-19 00:35:24,717 - __main__ - INFO - 上传目录: /Users/markov_lee/Code/E_Print/backend/temp
+2026-04-19 00:35:24,717 - __main__ - INFO - 日志目录: /Users/markov_lee/Code/E_Print/backend/logs
+2026-04-19 00:35:24,717 - __main__ - INFO - 允许的文件类型: {'pdf'}
+2026-04-19 00:35:24,717 - __main__ - INFO - 最大文件大小: 16.0 MB
+2026-04-19 00:35:24,717 - __main__ - INFO - ============================================================
+2026-04-19 00:35:24,717 - __main__ - INFO - 服务运行在: http://localhost:8000
+2026-04-19 00:35:24,717 - __main__ - INFO - API 端点: http://localhost:8000/api/order/parse-pdf
+2026-04-19 00:35:24,717 - __main__ - INFO - ============================================================
+2026-04-19 00:35:24,753 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.1.9:8000
+2026-04-19 00:35:24,753 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2026-04-19 00:35:24,753 - werkzeug - INFO -  * Restarting with stat
+2026-04-19 00:35:24,842 - __main__ - INFO - ============================================================
+2026-04-19 00:35:24,842 - __main__ - INFO - E_Print PDF 解析服务启动中...
+2026-04-19 00:35:24,842 - __main__ - INFO - ============================================================
+2026-04-19 00:35:24,842 - __main__ - INFO - 上传目录: /Users/markov_lee/Code/E_Print/backend/temp
+2026-04-19 00:35:24,842 - __main__ - INFO - 日志目录: /Users/markov_lee/Code/E_Print/backend/logs
+2026-04-19 00:35:24,842 - __main__ - INFO - 允许的文件类型: {'pdf'}
+2026-04-19 00:35:24,842 - __main__ - INFO - 最大文件大小: 16.0 MB
+2026-04-19 00:35:24,842 - __main__ - INFO - ============================================================
+2026-04-19 00:35:24,842 - __main__ - INFO - 服务运行在: http://localhost:8000
+2026-04-19 00:35:24,843 - __main__ - INFO - API 端点: http://localhost:8000/api/order/parse-pdf
+2026-04-19 00:35:24,843 - __main__ - INFO - ============================================================
+2026-04-19 00:35:24,857 - werkzeug - WARNING -  * Debugger is active!
+2026-04-19 00:35:24,867 - werkzeug - INFO -  * Debugger PIN: 682-638-364
+2026-04-19 00:36:41,993 - __main__ - INFO - ========== 新的解析请求 ==========
+2026-04-19 00:36:41,998 - __main__ - INFO - 收到文件: -V8.pdf
+2026-04-19 00:36:42,076 - __main__ - INFO - ✓ 成功解析订单数据，字段数: 58
+2026-04-19 00:36:42,076 - __main__ - INFO - 解析结果（非空字段）: {'customer': '当纳利亚洲印务有限公司', 'dingDanShuLiang': 30000.0, 'chuYangShuLiang': 1.0, 'xiaZiliaodaiRiqiPromise': '2025-10-29', 'productName': '903B23575 AM-绿女巫塔罗牌(美书盒)V8The Green Witch’s Oracle Deck', 'chaoBiLiShuLiang': 1500.0, 'order_id': '25025769', 'zongShuLiang': 30001.0, 'jiuBianMa': '903B23574', 'isbn': '9781507221136', 'chuYangShuoMing': '454500', 'customerPO': '460308806', 'baoJiaDanHao': '装订方式', 'zhuangDingFangShi': '彩盒', 'chuHuoShuLiang': 30000.0, 'chuHuoRiqiPromise': '2025-11-24', 'xiLieDanMing': 'Spot job', 'guigeGaoMm': 127.0, 'qiTaShiBie': '宽', 'guigeKuanMm': 88.9, 'chanPinDaLei': 'Others', 'ziLeiXing': '厚', 'fscType': 'Non FSC', 'genSeZhiShi': '专色跟色尺,其余跟签色', 'keLaiXinxi': 'CTP再版(翻印)', 'baoLiuQianSe': 'N', 'chanPinMingXi': [{'neiWen': '板纸盒外 裱纸', 'yongZhiChiCun': '', 'houDu': 0.0, 'keZhong': 128.0, 'chanDi': '国产', 'pinPai': '金太阳', 'zhiLei': '双面铜 版纸 (A2高 光)', 'FSC': 'FSC Mix Credit', 'yeShu': 4.0, 'yinSe': 'CYMK/', 'zhuanSe': '/', 'biaoMianChuLi': '单面过哑 胶,压凹', 'zhuangDingGongYi': '收缩包 装', 'beiZhu': '手指位'}, {'neiWen': '板纸盒板 纸', 'yongZhiChiCun': '', 'houDu': 2.5, 'keZhong': 0, 'chanDi': '国产', 'pinPai': '名欧', 'zhiLei': '灰板纸', 'FSC': 'FSC Recycl ed 100%', 'yeShu': 4.0, 'yinSe': '/', 'zhuanSe': '/', 'biaoMianChuLi': '', 'zhuangDingGongYi': '', 'beiZhu': ''}, {'neiWen': '板纸盒内 裱纸', 'yongZhiChiCun': '', 'houDu': 0.0, 'keZhong': 120.0, 'chanDi': '国产', 'pinPai': '金太阳', 'zhiLei': '双胶纸', 'FSC': 'FSC Mix Credit', 'yeShu': 4.0, 'yinSe': '/', 'zhuanSe': '[染PMS Black U][过印刷机 哑水油]/', 'biaoMianChuLi': '', 'zhuangDingGongYi': '', 'beiZhu': ''}, {'neiWen': '卡片', 'yongZhiChiCun': '', 'houDu': 0.0, 'keZhong': 400.0, 'chanDi': '国产', 'pinPai': '金太阳', 'zhiLei': '双面铜 版卡 (高光)', 'FSC': 'FSC Mix Credit', 'yeShu': 100.0, 'yinSe': 'CYMK/CYMK', 'zhuanSe': '[过印刷机哑 水油]/[过印刷 机哑水油]', 'biaoMianChuLi': '', 'zhuangDingGongYi': '圆角', 'beiZhu': ''}], 'zhuangDingShouGongYaoQiu': '1. 天地盒介半穿，天盖打20mm手指位 卡片尺寸W*H:88.9*127mm，4角切4分圆角 卡片正反方向按头对头，脚对脚方向做，卡片黑色面朝上，有颜色的图案面朝下 天盒外裱纸指甲孔离克字仅2.6mm,小心切到字', 'qiTa': '配套书包装：内含一本平装书+50张卡片', 'teShuYaoQiu': '1.此客户包裹要求去塑使用环保材质包装，寄给客人的折排/样本/白样都必须禁止使用珍珠棉/泡泡袋/塑料等不环保材质。 2.此客户V1新单请提供2本样给AE', 'dingDanPingShenXinXi': '"1、1本胶装书+50张卡片按工单顺序入书盒后收缩包装为一套 2、印刷书盒面纸需要拿大货书本和卡片试装，OK才可以印刷，啤书盒灰板和面纸需要拿大货书本卡片试装，OK才可以做大货 3、卡片按分条分块原则编排，印刷》啤》手工排卡》切成品》冲圆角 4、啤封面需拿毛书对比脊宽， 5、胶装书封面拉大排宽度拉大到220MM确保可以上胶装机"'}
+2026-04-19 00:36:42,076 - __main__ - INFO - ✓ 已删除临时文件: -V8.pdf
+2026-04-19 00:36:42,076 - __main__ - INFO - ========== 解析成功 ==========
+
+2026-04-19 00:36:42,077 - werkzeug - INFO - 127.0.0.1 - - [19/Apr/2026 00:36:42] "POST /api/order/parse-pdf HTTP/1.1" 200 -
+2026-04-19 00:36:51,538 - __main__ - INFO - ========== 新的解析请求 ==========
+2026-04-19 00:36:51,542 - __main__ - INFO - 收到文件: V8.pdf
+2026-04-19 00:36:51,623 - __main__ - INFO - ✓ 成功解析订单数据，字段数: 58
+2026-04-19 00:36:51,623 - __main__ - INFO - 解析结果（非空字段）: {'customer': '当纳利亚洲印务有限公司', 'dingDanShuLiang': 30000.0, 'chuYangShuLiang': 1.0, 'xiaZiliaodaiRiqiPromise': '2025-10-29', 'productName': '903B23251 AM-绿女巫塔罗牌(美平)V8The Green Witch’s Oracle Deck', 'chaoBiLiShuLiang': 1500.0, 'order_id': '25025769', 'zongShuLiang': 30001.0, 'jiuBianMa': '903A96750', 'isbn': '9781507221136', 'chuYangShuoMing': '454500', 'customerPO': '460308806', 'baoJiaDanHao': '装订方式', 'zhuangDingFangShi': '胶装穿线', 'chuHuoShuLiang': 30000.0, 'chuHuoRiqiPromise': '2025-11-24', 'xiLieDanMing': 'Spot job', 'guigeGaoMm': 127.0, 'qiTaShiBie': '978-1-5072-2113-6', 'guigeKuanMm': 88.9, 'chanPinDaLei': 'Others', 'ziLeiXing': '厚', 'guigeHouMm': 8.0, 'fscType': 'Non FSC', 'genSeZhiShi': '跟签色', 'keLaiXinxi': 'CTP再版(翻印)', 'baoLiuQianSe': 'N', 'chanPinMingXi': [{'neiWen': '封面', 'yongZhiChiCun': '', 'houDu': 0, 'keZhong': 0, 'chanDi': '', 'pinPai': '国产', 'zhiLei': '', 'FSC': '', 'yeShu': 0, 'yinSe': '4', 'zhuanSe': '', 'biaoMianChuLi': '', 'zhuangDingGongYi': '', 'beiZhu': ''}, {'neiWen': '内文', 'yongZhiChiCun': '', 'houDu': 0, 'keZhong': 0, 'chanDi': '', 'pinPai': '国产', 'zhiLei': '', 'FSC': '', 'yeShu': 0, 'yinSe': '128', 'zhuanSe': '', 'biaoMianChuLi': '', 'zhuangDingGongYi': '', 'beiZhu': ''}], 'teShuYaoQiu': '1.此客户包裹要求去塑使用环保材质包装，寄给客人的折排/样本/白样都必须禁止使用珍珠棉/泡泡袋/塑料等不环保材质。 2.此客户V1新单请提供2本样给AE', 'dingDanPingShenXinXi': '"1、1本胶装书+50张卡片按工单顺序入书盒后收缩包装为一套 2、印刷书盒面纸需要拿大货书本和卡片试装，OK才可以印刷，啤书盒灰板和面纸需要拿大货书本卡片试装，OK才可以做大货 3、卡片按分条分块原则编排，印刷》啤》手工排卡》切成品》冲圆角 4、啤封面需拿毛书对比脊宽， 5、胶装书封面拉大排宽度拉大到220MM确保可以上胶装机"'}
+2026-04-19 00:36:51,623 - __main__ - INFO - ✓ 已删除临时文件: V8.pdf
+2026-04-19 00:36:51,623 - __main__ - INFO - ========== 解析成功 ==========
+
+2026-04-19 00:36:51,623 - werkzeug - INFO - 127.0.0.1 - - [19/Apr/2026 00:36:51] "POST /api/order/parse-pdf HTTP/1.1" 200 -
+2026-04-19 00:37:08,653 - __main__ - INFO - ========== 新的解析请求 ==========
+2026-04-19 00:37:08,655 - __main__ - INFO - 收到文件: V8.pdf
+2026-04-19 00:37:08,718 - __main__ - INFO - ✓ 成功解析订单数据，字段数: 58
+2026-04-19 00:37:08,718 - __main__ - INFO - 解析结果（非空字段）: {'customer': '当纳利亚洲印务有限公司', 'dingDanShuLiang': 30000.0, 'chuYangShuLiang': 1.0, 'xiaZiliaodaiRiqiPromise': '2025-10-29', 'productName': '903B23251 AM-绿女巫塔罗牌(美平)V8The Green Witch’s Oracle Deck', 'chaoBiLiShuLiang': 1500.0, 'order_id': '25025769', 'zongShuLiang': 30001.0, 'jiuBianMa': '903A96750', 'isbn': '9781507221136', 'chuYangShuoMing': '454500', 'customerPO': '460308806', 'baoJiaDanHao': '装订方式', 'zhuangDingFangShi': '胶装穿线', 'chuHuoShuLiang': 30000.0, 'chuHuoRiqiPromise': '2025-11-24', 'xiLieDanMing': 'Spot job', 'guigeGaoMm': 127.0, 'qiTaShiBie': '978-1-5072-2113-6', 'guigeKuanMm': 88.9, 'chanPinDaLei': 'Others', 'ziLeiXing': '厚', 'guigeHouMm': 8.0, 'fscType': 'Non FSC', 'genSeZhiShi': '跟签色', 'keLaiXinxi': 'CTP再版(翻印)', 'baoLiuQianSe': 'N', 'chanPinMingXi': [{'neiWen': '封面', 'yongZhiChiCun': '', 'houDu': 0, 'keZhong': 0, 'chanDi': '', 'pinPai': '国产', 'zhiLei': '', 'FSC': '', 'yeShu': 0, 'yinSe': '4', 'zhuanSe': '', 'biaoMianChuLi': '', 'zhuangDingGongYi': '', 'beiZhu': ''}, {'neiWen': '内文', 'yongZhiChiCun': '', 'houDu': 0, 'keZhong': 0, 'chanDi': '', 'pinPai': '国产', 'zhiLei': '', 'FSC': '', 'yeShu': 0, 'yinSe': '128', 'zhuanSe': '', 'biaoMianChuLi': '', 'zhuangDingGongYi': '', 'beiZhu': ''}], 'teShuYaoQiu': '1.此客户包裹要求去塑使用环保材质包装，寄给客人的折排/样本/白样都必须禁止使用珍珠棉/泡泡袋/塑料等不环保材质。 2.此客户V1新单请提供2本样给AE', 'dingDanPingShenXinXi': '"1、1本胶装书+50张卡片按工单顺序入书盒后收缩包装为一套 2、印刷书盒面纸需要拿大货书本和卡片试装，OK才可以印刷，啤书盒灰板和面纸需要拿大货书本卡片试装，OK才可以做大货 3、卡片按分条分块原则编排，印刷》啤》手工排卡》切成品》冲圆角 4、啤封面需拿毛书对比脊宽， 5、胶装书封面拉大排宽度拉大到220MM确保可以上胶装机"'}
+2026-04-19 00:37:08,719 - __main__ - INFO - ✓ 已删除临时文件: V8.pdf
+2026-04-19 00:37:08,719 - __main__ - INFO - ========== 解析成功 ==========
+
+2026-04-19 00:37:08,719 - werkzeug - INFO - 127.0.0.1 - - [19/Apr/2026 00:37:08] "POST /api/order/parse-pdf HTTP/1.1" 200 -
+2026-04-19 00:38:29,051 - __main__ - INFO - ========== 新的解析请求 ==========
+2026-04-19 00:38:29,058 - __main__ - INFO - 收到文件: V8.pdf
+2026-04-19 00:38:29,131 - __main__ - INFO - ✓ 成功解析订单数据，字段数: 58
+2026-04-19 00:38:29,131 - __main__ - INFO - 解析结果（非空字段）: {'customer': '当纳利亚洲印务有限公司', 'dingDanShuLiang': 30000.0, 'chuYangShuLiang': 1.0, 'xiaZiliaodaiRiqiPromise': '2025-10-29', 'productName': "903B23574 AM-绿女巫塔罗牌(美书盒套装)V8The Green Witch's Oracle Deck", 'chaoBiLiShuLiang': 1500.0, 'order_id': '25025769', 'zongShuLiang': 30001.0, 'jiuBianMa': '903B23251', 'isbn': '9781507221136', 'chuYangShuoMing': '454500', 'chuyangRiqiPromise': '2025-11-24', 'customerPO': '460308806', 'baoJiaDanHao': 'Q25027704-1', 'zhuangDingFangShi': '配套包装', 'chuHuoShuLiang': 30000.0, 'chuHuoRiqiPromise': '2025-11-24', 'xiLieDanMing': 'Spot job', 'guigeGaoMm': 127.0, 'qiTaShiBie': '978-1-5072-2113-6', 'guigeKuanMm': 88.0, 'chanPinDaLei': 'Others', 'ziLeiXing': '厚', 'fscType': 'Non FSC', 'genSeZhiShi': '专色跟色尺,其余跟签色', 'keLaiXinxi': 'CTP再版(翻印)', 'baoLiuQianSe': 'Y 全书签色', 'chanPinMingXi': [{'neiWen': '903B235 75', 'yongZhiChiCun': '', 'houDu': 0.0, 'keZhong': 128.0, 'chanDi': '国产', 'pinPai': '金太阳', 'zhiLei': '双面铜 版纸 (A2高 光)', 'FSC': 'FSC Mix Credit', 'yeShu': 0.0, 'yinSe': 'CYMK/', 'zhuanSe': '/', 'biaoMianChuLi': '单面过哑 胶,压凹', 'zhuangDingGongYi': '收缩包 装', 'beiZhu': '手指位'}, {'neiWen': '903B232 51', 'yongZhiChiCun': '', 'houDu': 0.0, 'keZhong': 300.0, 'chanDi': '国产', 'pinPai': '华夏太阳', 'zhiLei': '白卡纸 （单粉 卡）', 'FSC': 'FSC Mix Credit', 'yeShu': 128.0, 'yinSe': 'CYMK/', 'zhuanSe': '/', 'biaoMianChuLi': '单面过哑 胶', 'zhuangDingGongYi': '', 'beiZhu': ''}], 'zhuangDingShouGongYaoQiu': '天地盒介半穿，天盖打20mm手指位 卡片尺寸： H：5.5英寸，W：3.5英寸，4角切4分圆角 卡片正反方向按头对头，脚对脚方向做，卡片背面黑色面朝上，有颜色的图案面朝下 卡片在下，书本在上，卡片1 面 朝书盒底，卡片50底朝书盒面', 'qiTa': '配套书包装：内含一本平装书+50张卡片', 'teShuYaoQiu': '1.此客户包裹要求去塑使用环保材质包装，寄给客人的折排/样本/白样都必须禁止使用珍珠棉/泡泡袋/塑料等不环保材质。 2.此客户V1新单请提供2本样给AE', 'dingDanPingShenXinXi': '"1、1本胶装书+50张卡片按工单顺序入书盒后收缩包装为一套 2、印刷书盒面纸需要拿大货书本和卡片试装，OK才可以印刷，啤书盒灰板和面纸需要拿大货书本卡片试装，OK才可以做大货 3、卡片按分条分块原则编排，印刷》啤》手工排卡》切成品》冲圆角 4、啤封面需拿毛书对比脊宽， 5、胶装书封面拉大排宽度拉大到220MM确保可以上胶装机"'}
+2026-04-19 00:38:29,131 - __main__ - INFO - ✓ 已删除临时文件: V8.pdf
+2026-04-19 00:38:29,131 - __main__ - INFO - ========== 解析成功 ==========
+
+2026-04-19 00:38:29,131 - werkzeug - INFO - 127.0.0.1 - - [19/Apr/2026 00:38:29] "POST /api/order/parse-pdf HTTP/1.1" 200 -
+2026-04-19 00:39:06,502 - __main__ - INFO - ========== 新的解析请求 ==========
+2026-04-19 00:39:06,507 - __main__ - INFO - 收到文件: V8.pdf
+2026-04-19 00:39:06,574 - __main__ - INFO - ✓ 成功解析订单数据，字段数: 58
+2026-04-19 00:39:06,574 - __main__ - INFO - 解析结果（非空字段）: {'customer': '当纳利亚洲印务有限公司', 'dingDanShuLiang': 30000.0, 'chuYangShuLiang': 1.0, 'xiaZiliaodaiRiqiPromise': '2025-10-29', 'productName': '903B23251 AM-绿女巫塔罗牌(美平)V8The Green Witch’s Oracle Deck', 'chaoBiLiShuLiang': 1500.0, 'order_id': '25025769', 'zongShuLiang': 30001.0, 'jiuBianMa': '903A96750', 'isbn': '9781507221136', 'chuYangShuoMing': '454500', 'customerPO': '460308806', 'baoJiaDanHao': '装订方式', 'zhuangDingFangShi': '胶装穿线', 'chuHuoShuLiang': 30000.0, 'chuHuoRiqiPromise': '2025-11-24', 'xiLieDanMing': 'Spot job', 'guigeGaoMm': 127.0, 'qiTaShiBie': '978-1-5072-2113-6', 'guigeKuanMm': 88.9, 'chanPinDaLei': 'Others', 'ziLeiXing': '厚', 'guigeHouMm': 8.0, 'fscType': 'Non FSC', 'genSeZhiShi': '跟签色', 'keLaiXinxi': 'CTP再版(翻印)', 'baoLiuQianSe': 'N', 'chanPinMingXi': [{'neiWen': '封面', 'yongZhiChiCun': '', 'houDu': 0, 'keZhong': 0, 'chanDi': '', 'pinPai': '国产', 'zhiLei': '', 'FSC': '', 'yeShu': 0, 'yinSe': '4', 'zhuanSe': '', 'biaoMianChuLi': '', 'zhuangDingGongYi': '', 'beiZhu': ''}, {'neiWen': '内文', 'yongZhiChiCun': '', 'houDu': 0, 'keZhong': 0, 'chanDi': '', 'pinPai': '国产', 'zhiLei': '', 'FSC': '', 'yeShu': 0, 'yinSe': '128', 'zhuanSe': '', 'biaoMianChuLi': '', 'zhuangDingGongYi': '', 'beiZhu': ''}], 'teShuYaoQiu': '1.此客户包裹要求去塑使用环保材质包装，寄给客人的折排/样本/白样都必须禁止使用珍珠棉/泡泡袋/塑料等不环保材质。 2.此客户V1新单请提供2本样给AE', 'dingDanPingShenXinXi': '"1、1本胶装书+50张卡片按工单顺序入书盒后收缩包装为一套 2、印刷书盒面纸需要拿大货书本和卡片试装，OK才可以印刷，啤书盒灰板和面纸需要拿大货书本卡片试装，OK才可以做大货 3、卡片按分条分块原则编排，印刷》啤》手工排卡》切成品》冲圆角 4、啤封面需拿毛书对比脊宽， 5、胶装书封面拉大排宽度拉大到220MM确保可以上胶装机"'}
+2026-04-19 00:39:06,574 - __main__ - INFO - ✓ 已删除临时文件: V8.pdf
+2026-04-19 00:39:06,574 - __main__ - INFO - ========== 解析成功 ==========
+
+2026-04-19 00:39:06,575 - werkzeug - INFO - 127.0.0.1 - - [19/Apr/2026 00:39:06] "POST /api/order/parse-pdf HTTP/1.1" 200 -
+2026-04-19 00:42:04,611 - werkzeug - INFO -  * Detected change in '/Users/markov_lee/Code/E_Print/backend/table_parser.py', reloading
+2026-04-19 00:42:04,660 - werkzeug - INFO -  * Restarting with stat
+2026-04-19 00:42:04,805 - __main__ - INFO - ============================================================
+2026-04-19 00:42:04,805 - __main__ - INFO - E_Print PDF 解析服务启动中...
+2026-04-19 00:42:04,805 - __main__ - INFO - ============================================================
+2026-04-19 00:42:04,805 - __main__ - INFO - 上传目录: /Users/markov_lee/Code/E_Print/backend/temp
+2026-04-19 00:42:04,805 - __main__ - INFO - 日志目录: /Users/markov_lee/Code/E_Print/backend/logs
+2026-04-19 00:42:04,805 - __main__ - INFO - 允许的文件类型: {'pdf'}
+2026-04-19 00:42:04,805 - __main__ - INFO - 最大文件大小: 16.0 MB
+2026-04-19 00:42:04,805 - __main__ - INFO - ============================================================
+2026-04-19 00:42:04,805 - __main__ - INFO - 服务运行在: http://localhost:8000
+2026-04-19 00:42:04,805 - __main__ - INFO - API 端点: http://localhost:8000/api/order/parse-pdf
+2026-04-19 00:42:04,805 - __main__ - INFO - ============================================================
+2026-04-19 00:42:04,830 - werkzeug - WARNING -  * Debugger is active!
+2026-04-19 00:42:04,844 - werkzeug - INFO -  * Debugger PIN: 682-638-364
+2026-04-19 00:42:30,000 - werkzeug - INFO -  * Detected change in '/Users/markov_lee/Code/E_Print/backend/table_parser.py', reloading
+2026-04-19 00:42:30,062 - werkzeug - INFO -  * Restarting with stat
+2026-04-19 00:42:30,222 - __main__ - INFO - ============================================================
+2026-04-19 00:42:30,222 - __main__ - INFO - E_Print PDF 解析服务启动中...
+2026-04-19 00:42:30,223 - __main__ - INFO - ============================================================
+2026-04-19 00:42:30,223 - __main__ - INFO - 上传目录: /Users/markov_lee/Code/E_Print/backend/temp
+2026-04-19 00:42:30,223 - __main__ - INFO - 日志目录: /Users/markov_lee/Code/E_Print/backend/logs
+2026-04-19 00:42:30,223 - __main__ - INFO - 允许的文件类型: {'pdf'}
+2026-04-19 00:42:30,223 - __main__ - INFO - 最大文件大小: 16.0 MB
+2026-04-19 00:42:30,223 - __main__ - INFO - ============================================================
+2026-04-19 00:42:30,223 - __main__ - INFO - 服务运行在: http://localhost:8000
+2026-04-19 00:42:30,223 - __main__ - INFO - API 端点: http://localhost:8000/api/order/parse-pdf
+2026-04-19 00:42:30,223 - __main__ - INFO - ============================================================
+2026-04-19 00:42:30,250 - werkzeug - WARNING -  * Debugger is active!
+2026-04-19 00:42:30,258 - werkzeug - INFO -  * Debugger PIN: 682-638-364
+2026-04-19 00:43:38,645 - werkzeug - INFO -  * Detected change in '/Users/markov_lee/Code/E_Print/backend/table_parser.py', reloading
+2026-04-19 00:43:38,701 - werkzeug - INFO -  * Restarting with stat
+2026-04-19 00:43:38,877 - __main__ - INFO - ============================================================
+2026-04-19 00:43:38,877 - __main__ - INFO - E_Print PDF 解析服务启动中...
+2026-04-19 00:43:38,877 - __main__ - INFO - ============================================================
+2026-04-19 00:43:38,877 - __main__ - INFO - 上传目录: /Users/markov_lee/Code/E_Print/backend/temp
+2026-04-19 00:43:38,877 - __main__ - INFO - 日志目录: /Users/markov_lee/Code/E_Print/backend/logs
+2026-04-19 00:43:38,877 - __main__ - INFO - 允许的文件类型: {'pdf'}
+2026-04-19 00:43:38,877 - __main__ - INFO - 最大文件大小: 16.0 MB
+2026-04-19 00:43:38,877 - __main__ - INFO - ============================================================
+2026-04-19 00:43:38,877 - __main__ - INFO - 服务运行在: http://localhost:8000
+2026-04-19 00:43:38,877 - __main__ - INFO - API 端点: http://localhost:8000/api/order/parse-pdf
+2026-04-19 00:43:38,877 - __main__ - INFO - ============================================================
+2026-04-19 00:43:38,902 - werkzeug - WARNING -  * Debugger is active!
+2026-04-19 00:43:38,918 - werkzeug - INFO -  * Debugger PIN: 682-638-364
+2026-04-19 00:43:46,976 - werkzeug - INFO -  * Detected change in '/Users/markov_lee/Code/E_Print/backend/table_parser.py', reloading
+2026-04-19 00:43:47,022 - werkzeug - INFO -  * Restarting with stat
+2026-04-19 00:43:47,155 - __main__ - INFO - ============================================================
+2026-04-19 00:43:47,155 - __main__ - INFO - E_Print PDF 解析服务启动中...
+2026-04-19 00:43:47,155 - __main__ - INFO - ============================================================
+2026-04-19 00:43:47,155 - __main__ - INFO - 上传目录: /Users/markov_lee/Code/E_Print/backend/temp
+2026-04-19 00:43:47,155 - __main__ - INFO - 日志目录: /Users/markov_lee/Code/E_Print/backend/logs
+2026-04-19 00:43:47,155 - __main__ - INFO - 允许的文件类型: {'pdf'}
+2026-04-19 00:43:47,155 - __main__ - INFO - 最大文件大小: 16.0 MB
+2026-04-19 00:43:47,155 - __main__ - INFO - ============================================================
+2026-04-19 00:43:47,155 - __main__ - INFO - 服务运行在: http://localhost:8000
+2026-04-19 00:43:47,155 - __main__ - INFO - API 端点: http://localhost:8000/api/order/parse-pdf
+2026-04-19 00:43:47,155 - __main__ - INFO - ============================================================
+2026-04-19 00:43:47,176 - werkzeug - WARNING -  * Debugger is active!
+2026-04-19 00:43:47,185 - werkzeug - INFO -  * Debugger PIN: 682-638-364
+2026-04-19 00:43:53,254 - __main__ - INFO - ============================================================
+2026-04-19 00:43:53,254 - __main__ - INFO - E_Print PDF 解析服务启动中...
+2026-04-19 00:43:53,254 - __main__ - INFO - ============================================================
+2026-04-19 00:43:53,254 - __main__ - INFO - 上传目录: /Users/markov_lee/Code/E_Print/backend/temp
+2026-04-19 00:43:53,254 - __main__ - INFO - 日志目录: /Users/markov_lee/Code/E_Print/backend/logs
+2026-04-19 00:43:53,254 - __main__ - INFO - 允许的文件类型: {'pdf'}
+2026-04-19 00:43:53,254 - __main__ - INFO - 最大文件大小: 16.0 MB
+2026-04-19 00:43:53,254 - __main__ - INFO - ============================================================
+2026-04-19 00:43:53,254 - __main__ - INFO - 服务运行在: http://localhost:8000
+2026-04-19 00:43:53,254 - __main__ - INFO - API 端点: http://localhost:8000/api/order/parse-pdf
+2026-04-19 00:43:53,254 - __main__ - INFO - ============================================================
+2026-04-19 00:43:53,284 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.1.9:8000
+2026-04-19 00:43:53,285 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2026-04-19 00:43:53,285 - werkzeug - INFO -  * Restarting with stat
+2026-04-19 00:43:53,368 - __main__ - INFO - ============================================================
+2026-04-19 00:43:53,368 - __main__ - INFO - E_Print PDF 解析服务启动中...
+2026-04-19 00:43:53,368 - __main__ - INFO - ============================================================
+2026-04-19 00:43:53,368 - __main__ - INFO - 上传目录: /Users/markov_lee/Code/E_Print/backend/temp
+2026-04-19 00:43:53,368 - __main__ - INFO - 日志目录: /Users/markov_lee/Code/E_Print/backend/logs
+2026-04-19 00:43:53,368 - __main__ - INFO - 允许的文件类型: {'pdf'}
+2026-04-19 00:43:53,368 - __main__ - INFO - 最大文件大小: 16.0 MB
+2026-04-19 00:43:53,368 - __main__ - INFO - ============================================================
+2026-04-19 00:43:53,368 - __main__ - INFO - 服务运行在: http://localhost:8000
+2026-04-19 00:43:53,368 - __main__ - INFO - API 端点: http://localhost:8000/api/order/parse-pdf
+2026-04-19 00:43:53,368 - __main__ - INFO - ============================================================
+2026-04-19 00:43:53,384 - werkzeug - WARNING -  * Debugger is active!
+2026-04-19 00:43:53,392 - werkzeug - INFO -  * Debugger PIN: 682-638-364
+2026-04-19 00:45:09,234 - __main__ - INFO - ========== 新的解析请求 ==========
+2026-04-19 00:45:09,256 - __main__ - INFO - 收到文件: V8.pdf
+2026-04-19 00:45:09,334 - __main__ - INFO - ✓ 成功解析订单数据，字段数: 58
+2026-04-19 00:45:09,334 - __main__ - INFO - 解析结果（非空字段）: {'customer': '当纳利亚洲印务有限公司', 'dingDanShuLiang': 30000.0, 'chuYangShuLiang': 1.0, 'xiaZiliaodaiRiqiPromise': '2025-10-29', 'productName': '903B23251 AM-绿女巫塔罗牌(美平)V8The Green Witch’s Oracle Deck', 'chaoBiLiShuLiang': 1500.0, 'order_id': '25025769', 'zongShuLiang': 30001.0, 'jiuBianMa': '903A96750', 'isbn': '9781507221136', 'chuYangShuoMing': '454500', 'customerPO': '460308806', 'baoJiaDanHao': '装订方式', 'zhuangDingFangShi': '胶装穿线', 'chuHuoShuLiang': 30000.0, 'chuHuoRiqiPromise': '2025-11-24', 'xiLieDanMing': 'Spot job', 'guigeGaoMm': 127.0, 'qiTaShiBie': '978-1-5072-2113-6', 'guigeKuanMm': 88.9, 'chanPinDaLei': 'Others', 'ziLeiXing': '厚', 'guigeHouMm': 8.0, 'fscType': 'Non FSC', 'genSeZhiShi': '跟签色', 'keLaiXinxi': 'CTP再版(翻印)', 'baoLiuQianSe': 'N', 'chanPinMingXi': [{'neiWen': '封面', 'yongZhiChiCun': '', 'houDu': 0, 'keZhong': 0, 'chanDi': '', 'pinPai': '国产', 'zhiLei': '', 'FSC': '', 'yeShu': 0, 'yinSe': '4', 'zhuanSe': '', 'biaoMianChuLi': '', 'zhuangDingGongYi': '', 'beiZhu': ''}, {'neiWen': '内文', 'yongZhiChiCun': '', 'houDu': 0, 'keZhong': 0, 'chanDi': '', 'pinPai': '国产', 'zhiLei': '', 'FSC': '', 'yeShu': 0, 'yinSe': '128', 'zhuanSe': '', 'biaoMianChuLi': '', 'zhuangDingGongYi': '', 'beiZhu': ''}], 'teShuYaoQiu': '1.此客户包裹要求去塑使用环保材质包装，寄给客人的折排/样本/白样都必须禁止使用珍珠棉/泡泡袋/塑料等不环保材质。 2.此客户V1新单请提供2本样给AE', 'dingDanPingShenXinXi': '"1、1本胶装书+50张卡片按工单顺序入书盒后收缩包装为一套 2、印刷书盒面纸需要拿大货书本和卡片试装，OK才可以印刷，啤书盒灰板和面纸需要拿大货书本卡片试装，OK才可以做大货 3、卡片按分条分块原则编排，印刷》啤》手工排卡》切成品》冲圆角 4、啤封面需拿毛书对比脊宽， 5、胶装书封面拉大排宽度拉大到220MM确保可以上胶装机"'}
+2026-04-19 00:45:09,335 - __main__ - INFO - ✓ 已删除临时文件: V8.pdf
+2026-04-19 00:45:09,335 - __main__ - INFO - ========== 解析成功 ==========
+
+2026-04-19 00:45:09,335 - werkzeug - INFO - 127.0.0.1 - - [19/Apr/2026 00:45:09] "POST /api/order/parse-pdf HTTP/1.1" 200 -
+2026-04-19 00:45:22,545 - __main__ - INFO - ========== 新的解析请求 ==========
+2026-04-19 00:45:22,550 - __main__ - INFO - 收到文件: -V8.pdf
+2026-04-19 00:45:22,631 - __main__ - INFO - ✓ 成功解析订单数据，字段数: 58
+2026-04-19 00:45:22,631 - __main__ - INFO - 解析结果（非空字段）: {'customer': '当纳利亚洲印务有限公司', 'dingDanShuLiang': 30000.0, 'chuYangShuLiang': 1.0, 'xiaZiliaodaiRiqiPromise': '2025-10-29', 'productName': '903B23575 AM-绿女巫塔罗牌(美书盒)V8The Green Witch’s Oracle Deck', 'chaoBiLiShuLiang': 1500.0, 'order_id': '25025769', 'zongShuLiang': 30001.0, 'jiuBianMa': '903B23574', 'isbn': '9781507221136', 'chuYangShuoMing': '454500', 'customerPO': '460308806', 'baoJiaDanHao': '装订方式', 'zhuangDingFangShi': '彩盒', 'chuHuoShuLiang': 30000.0, 'chuHuoRiqiPromise': '2025-11-24', 'xiLieDanMing': 'Spot job', 'guigeGaoMm': 127.0, 'qiTaShiBie': '宽', 'guigeKuanMm': 88.9, 'chanPinDaLei': 'Others', 'ziLeiXing': '厚', 'fscType': 'Non FSC', 'genSeZhiShi': '专色跟色尺,其余跟签色', 'keLaiXinxi': 'CTP再版(翻印)', 'baoLiuQianSe': 'N', 'chanPinMingXi': [{'neiWen': '板纸盒外 裱纸', 'yongZhiChiCun': '', 'houDu': 0.0, 'keZhong': 128.0, 'chanDi': '国产', 'pinPai': '金太阳', 'zhiLei': '双面铜 版纸 (A2高 光)', 'FSC': 'FSC Mix Credit', 'yeShu': 4.0, 'yinSe': 'CYMK/', 'zhuanSe': '/', 'biaoMianChuLi': '单面过哑 胶,压凹', 'zhuangDingGongYi': '收缩包 装', 'beiZhu': '手指位'}, {'neiWen': '板纸盒板 纸', 'yongZhiChiCun': '', 'houDu': 2.5, 'keZhong': 0, 'chanDi': '国产', 'pinPai': '名欧', 'zhiLei': '灰板纸', 'FSC': 'FSC Recycl ed 100%', 'yeShu': 4.0, 'yinSe': '/', 'zhuanSe': '/', 'biaoMianChuLi': '', 'zhuangDingGongYi': '', 'beiZhu': ''}, {'neiWen': '板纸盒内 裱纸', 'yongZhiChiCun': '', 'houDu': 0.0, 'keZhong': 120.0, 'chanDi': '国产', 'pinPai': '金太阳', 'zhiLei': '双胶纸', 'FSC': 'FSC Mix Credit', 'yeShu': 4.0, 'yinSe': '/', 'zhuanSe': '[染PMS Black U][过印刷机 哑水油]/', 'biaoMianChuLi': '', 'zhuangDingGongYi': '', 'beiZhu': ''}, {'neiWen': '卡片', 'yongZhiChiCun': '', 'houDu': 0.0, 'keZhong': 400.0, 'chanDi': '国产', 'pinPai': '金太阳', 'zhiLei': '双面铜 版卡 (高光)', 'FSC': 'FSC Mix Credit', 'yeShu': 100.0, 'yinSe': 'CYMK/CYMK', 'zhuanSe': '[过印刷机哑 水油]/[过印刷 机哑水油]', 'biaoMianChuLi': '', 'zhuangDingGongYi': '圆角', 'beiZhu': ''}], 'zhuangDingShouGongYaoQiu': '1. 天地盒介半穿，天盖打20mm手指位 卡片尺寸W*H:88.9*127mm，4角切4分圆角 卡片正反方向按头对头，脚对脚方向做，卡片黑色面朝上，有颜色的图案面朝下 天盒外裱纸指甲孔离克字仅2.6mm,小心切到字', 'qiTa': '配套书包装：内含一本平装书+50张卡片', 'teShuYaoQiu': '1.此客户包裹要求去塑使用环保材质包装，寄给客人的折排/样本/白样都必须禁止使用珍珠棉/泡泡袋/塑料等不环保材质。 2.此客户V1新单请提供2本样给AE', 'dingDanPingShenXinXi': '"1、1本胶装书+50张卡片按工单顺序入书盒后收缩包装为一套 2、印刷书盒面纸需要拿大货书本和卡片试装，OK才可以印刷，啤书盒灰板和面纸需要拿大货书本卡片试装，OK才可以做大货 3、卡片按分条分块原则编排，印刷》啤》手工排卡》切成品》冲圆角 4、啤封面需拿毛书对比脊宽， 5、胶装书封面拉大排宽度拉大到220MM确保可以上胶装机"'}
+2026-04-19 00:45:22,631 - __main__ - INFO - ✓ 已删除临时文件: -V8.pdf
+2026-04-19 00:45:22,631 - __main__ - INFO - ========== 解析成功 ==========
+
+2026-04-19 00:45:22,632 - werkzeug - INFO - 127.0.0.1 - - [19/Apr/2026 00:45:22] "POST /api/order/parse-pdf HTTP/1.1" 200 -
+2026-04-19 00:45:29,410 - __main__ - INFO - ========== 新的解析请求 ==========
+2026-04-19 00:45:29,414 - __main__ - INFO - 收到文件: V8.pdf
+2026-04-19 00:45:29,483 - __main__ - INFO - ✓ 成功解析订单数据，字段数: 58
+2026-04-19 00:45:29,483 - __main__ - INFO - 解析结果（非空字段）: {'customer': '当纳利亚洲印务有限公司', 'dingDanShuLiang': 30000.0, 'chuYangShuLiang': 1.0, 'xiaZiliaodaiRiqiPromise': '2025-10-29', 'productName': '903B23251 AM-绿女巫塔罗牌(美平)V8The Green Witch’s Oracle Deck', 'chaoBiLiShuLiang': 1500.0, 'order_id': '25025769', 'zongShuLiang': 30001.0, 'jiuBianMa': '903A96750', 'isbn': '9781507221136', 'chuYangShuoMing': '454500', 'customerPO': '460308806', 'baoJiaDanHao': '装订方式', 'zhuangDingFangShi': '胶装穿线', 'chuHuoShuLiang': 30000.0, 'chuHuoRiqiPromise': '2025-11-24', 'xiLieDanMing': 'Spot job', 'guigeGaoMm': 127.0, 'qiTaShiBie': '978-1-5072-2113-6', 'guigeKuanMm': 88.9, 'chanPinDaLei': 'Others', 'ziLeiXing': '厚', 'guigeHouMm': 8.0, 'fscType': 'Non FSC', 'genSeZhiShi': '跟签色', 'keLaiXinxi': 'CTP再版(翻印)', 'baoLiuQianSe': 'N', 'chanPinMingXi': [{'neiWen': '封面', 'yongZhiChiCun': '', 'houDu': 0, 'keZhong': 0, 'chanDi': '', 'pinPai': '国产', 'zhiLei': '', 'FSC': '', 'yeShu': 0, 'yinSe': '4', 'zhuanSe': '', 'biaoMianChuLi': '', 'zhuangDingGongYi': '', 'beiZhu': ''}, {'neiWen': '内文', 'yongZhiChiCun': '', 'houDu': 0, 'keZhong': 0, 'chanDi': '', 'pinPai': '国产', 'zhiLei': '', 'FSC': '', 'yeShu': 0, 'yinSe': '128', 'zhuanSe': '', 'biaoMianChuLi': '', 'zhuangDingGongYi': '', 'beiZhu': ''}], 'teShuYaoQiu': '1.此客户包裹要求去塑使用环保材质包装，寄给客人的折排/样本/白样都必须禁止使用珍珠棉/泡泡袋/塑料等不环保材质。 2.此客户V1新单请提供2本样给AE', 'dingDanPingShenXinXi': '"1、1本胶装书+50张卡片按工单顺序入书盒后收缩包装为一套 2、印刷书盒面纸需要拿大货书本和卡片试装，OK才可以印刷，啤书盒灰板和面纸需要拿大货书本卡片试装，OK才可以做大货 3、卡片按分条分块原则编排，印刷》啤》手工排卡》切成品》冲圆角 4、啤封面需拿毛书对比脊宽， 5、胶装书封面拉大排宽度拉大到220MM确保可以上胶装机"'}
+2026-04-19 00:45:29,483 - __main__ - INFO - ✓ 已删除临时文件: V8.pdf
+2026-04-19 00:45:29,483 - __main__ - INFO - ========== 解析成功 ==========
+
+2026-04-19 00:45:29,484 - werkzeug - INFO - 127.0.0.1 - - [19/Apr/2026 00:45:29] "POST /api/order/parse-pdf HTTP/1.1" 200 -
+2026-04-19 00:46:08,369 - werkzeug - INFO -  * Detected change in '/Users/markov_lee/Code/E_Print/backend/table_parser.py', reloading
+2026-04-19 00:46:08,410 - werkzeug - INFO -  * Restarting with stat
+2026-04-19 00:46:08,576 - __main__ - INFO - ============================================================
+2026-04-19 00:46:08,576 - __main__ - INFO - E_Print PDF 解析服务启动中...
+2026-04-19 00:46:08,576 - __main__ - INFO - ============================================================
+2026-04-19 00:46:08,576 - __main__ - INFO - 上传目录: /Users/markov_lee/Code/E_Print/backend/temp
+2026-04-19 00:46:08,576 - __main__ - INFO - 日志目录: /Users/markov_lee/Code/E_Print/backend/logs
+2026-04-19 00:46:08,576 - __main__ - INFO - 允许的文件类型: {'pdf'}
+2026-04-19 00:46:08,576 - __main__ - INFO - 最大文件大小: 16.0 MB
+2026-04-19 00:46:08,576 - __main__ - INFO - ============================================================
+2026-04-19 00:46:08,576 - __main__ - INFO - 服务运行在: http://localhost:8000
+2026-04-19 00:46:08,576 - __main__ - INFO - API 端点: http://localhost:8000/api/order/parse-pdf
+2026-04-19 00:46:08,576 - __main__ - INFO - ============================================================
+2026-04-19 00:46:08,601 - werkzeug - WARNING -  * Debugger is active!
+2026-04-19 00:46:08,612 - werkzeug - INFO -  * Debugger PIN: 682-638-364
+2026-04-19 00:46:48,869 - werkzeug - INFO -  * Detected change in '/Users/markov_lee/Code/E_Print/backend/table_parser.py', reloading
+2026-04-19 00:46:48,916 - werkzeug - INFO -  * Restarting with stat
+2026-04-19 00:47:54,376 - __main__ - INFO - ============================================================
+2026-04-19 00:47:54,377 - __main__ - INFO - E_Print PDF 解析服务启动中...
+2026-04-19 00:47:54,377 - __main__ - INFO - ============================================================
+2026-04-19 00:47:54,377 - __main__ - INFO - 上传目录: /Users/markov_lee/Code/E_Print/backend/temp
+2026-04-19 00:47:54,377 - __main__ - INFO - 日志目录: /Users/markov_lee/Code/E_Print/backend/logs
+2026-04-19 00:47:54,377 - __main__ - INFO - 允许的文件类型: {'pdf'}
+2026-04-19 00:47:54,377 - __main__ - INFO - 最大文件大小: 16.0 MB
+2026-04-19 00:47:54,377 - __main__ - INFO - ============================================================
+2026-04-19 00:47:54,377 - __main__ - INFO - 服务运行在: http://localhost:8000
+2026-04-19 00:47:54,377 - __main__ - INFO - API 端点: http://localhost:8000/api/order/parse-pdf
+2026-04-19 00:47:54,377 - __main__ - INFO - ============================================================
+2026-04-19 00:47:54,430 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.1.9:8000
+2026-04-19 00:47:54,430 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2026-04-19 00:47:54,431 - werkzeug - INFO -  * Restarting with stat
+2026-04-19 00:47:54,531 - __main__ - INFO - ============================================================
+2026-04-19 00:47:54,531 - __main__ - INFO - E_Print PDF 解析服务启动中...
+2026-04-19 00:47:54,532 - __main__ - INFO - ============================================================
+2026-04-19 00:47:54,532 - __main__ - INFO - 上传目录: /Users/markov_lee/Code/E_Print/backend/temp
+2026-04-19 00:47:54,532 - __main__ - INFO - 日志目录: /Users/markov_lee/Code/E_Print/backend/logs
+2026-04-19 00:47:54,532 - __main__ - INFO - 允许的文件类型: {'pdf'}
+2026-04-19 00:47:54,532 - __main__ - INFO - 最大文件大小: 16.0 MB
+2026-04-19 00:47:54,532 - __main__ - INFO - ============================================================
+2026-04-19 00:47:54,532 - __main__ - INFO - 服务运行在: http://localhost:8000
+2026-04-19 00:47:54,532 - __main__ - INFO - API 端点: http://localhost:8000/api/order/parse-pdf
+2026-04-19 00:47:54,532 - __main__ - INFO - ============================================================
+2026-04-19 00:47:54,550 - werkzeug - WARNING -  * Debugger is active!
+2026-04-19 00:47:54,560 - werkzeug - INFO -  * Debugger PIN: 682-638-364
+2026-04-19 00:48:06,361 - __main__ - INFO - ========== 新的解析请求 ==========
+2026-04-19 00:48:06,367 - __main__ - INFO - 收到文件: V8.pdf
+2026-04-19 00:52:30,843 - werkzeug - INFO -  * Detected change in '/Users/markov_lee/Code/E_Print/backend/table_parser.py', reloading
+2026-04-19 00:53:30,497 - __main__ - INFO - ============================================================
+2026-04-19 00:53:30,497 - __main__ - INFO - E_Print PDF 解析服务启动中...
+2026-04-19 00:53:30,497 - __main__ - INFO - ============================================================
+2026-04-19 00:53:30,497 - __main__ - INFO - 上传目录: /Users/markov_lee/Code/E_Print/backend/temp
+2026-04-19 00:53:30,497 - __main__ - INFO - 日志目录: /Users/markov_lee/Code/E_Print/backend/logs
+2026-04-19 00:53:30,497 - __main__ - INFO - 允许的文件类型: {'pdf'}
+2026-04-19 00:53:30,497 - __main__ - INFO - 最大文件大小: 16.0 MB
+2026-04-19 00:53:30,497 - __main__ - INFO - ============================================================
+2026-04-19 00:53:30,497 - __main__ - INFO - 服务运行在: http://localhost:8000
+2026-04-19 00:53:30,497 - __main__ - INFO - API 端点: http://localhost:8000/api/order/parse-pdf
+2026-04-19 00:53:30,497 - __main__ - INFO - ============================================================
+2026-04-19 00:53:30,539 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.1.9:8000
+2026-04-19 00:53:30,539 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2026-04-19 00:53:30,539 - werkzeug - INFO -  * Restarting with stat
+2026-04-19 00:53:30,647 - __main__ - INFO - ============================================================
+2026-04-19 00:53:30,647 - __main__ - INFO - E_Print PDF 解析服务启动中...
+2026-04-19 00:53:30,647 - __main__ - INFO - ============================================================
+2026-04-19 00:53:30,647 - __main__ - INFO - 上传目录: /Users/markov_lee/Code/E_Print/backend/temp
+2026-04-19 00:53:30,647 - __main__ - INFO - 日志目录: /Users/markov_lee/Code/E_Print/backend/logs
+2026-04-19 00:53:30,647 - __main__ - INFO - 允许的文件类型: {'pdf'}
+2026-04-19 00:53:30,647 - __main__ - INFO - 最大文件大小: 16.0 MB
+2026-04-19 00:53:30,647 - __main__ - INFO - ============================================================
+2026-04-19 00:53:30,647 - __main__ - INFO - 服务运行在: http://localhost:8000
+2026-04-19 00:53:30,647 - __main__ - INFO - API 端点: http://localhost:8000/api/order/parse-pdf
+2026-04-19 00:53:30,647 - __main__ - INFO - ============================================================
+2026-04-19 00:53:30,665 - werkzeug - WARNING -  * Debugger is active!
+2026-04-19 00:53:30,677 - werkzeug - INFO -  * Debugger PIN: 682-638-364
+2026-04-19 00:56:16,890 - __main__ - INFO - ============================================================
+2026-04-19 00:56:16,890 - __main__ - INFO - E_Print PDF 解析服务启动中...
+2026-04-19 00:56:16,890 - __main__ - INFO - ============================================================
+2026-04-19 00:56:16,890 - __main__ - INFO - 上传目录: /Users/markov_lee/Code/E_Print/backend/temp
+2026-04-19 00:56:16,890 - __main__ - INFO - 日志目录: /Users/markov_lee/Code/E_Print/backend/logs
+2026-04-19 00:56:16,890 - __main__ - INFO - 允许的文件类型: {'pdf'}
+2026-04-19 00:56:16,890 - __main__ - INFO - 最大文件大小: 16.0 MB
+2026-04-19 00:56:16,890 - __main__ - INFO - ============================================================
+2026-04-19 00:56:16,890 - __main__ - INFO - 服务运行在: http://localhost:8000
+2026-04-19 00:56:16,890 - __main__ - INFO - API 端点: http://localhost:8000/api/order/parse-pdf
+2026-04-19 00:56:16,890 - __main__ - INFO - ============================================================
+2026-04-19 00:56:16,930 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.1.9:8000
+2026-04-19 00:56:16,930 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2026-04-19 00:56:16,930 - werkzeug - INFO -  * Restarting with stat
+2026-04-19 00:56:17,015 - __main__ - INFO - ============================================================
+2026-04-19 00:56:17,015 - __main__ - INFO - E_Print PDF 解析服务启动中...
+2026-04-19 00:56:17,015 - __main__ - INFO - ============================================================
+2026-04-19 00:56:17,015 - __main__ - INFO - 上传目录: /Users/markov_lee/Code/E_Print/backend/temp
+2026-04-19 00:56:17,015 - __main__ - INFO - 日志目录: /Users/markov_lee/Code/E_Print/backend/logs
+2026-04-19 00:56:17,015 - __main__ - INFO - 允许的文件类型: {'pdf'}
+2026-04-19 00:56:17,015 - __main__ - INFO - 最大文件大小: 16.0 MB
+2026-04-19 00:56:17,015 - __main__ - INFO - ============================================================
+2026-04-19 00:56:17,015 - __main__ - INFO - 服务运行在: http://localhost:8000
+2026-04-19 00:56:17,015 - __main__ - INFO - API 端点: http://localhost:8000/api/order/parse-pdf
+2026-04-19 00:56:17,015 - __main__ - INFO - ============================================================
+2026-04-19 00:56:17,029 - werkzeug - WARNING -  * Debugger is active!
+2026-04-19 00:56:17,037 - werkzeug - INFO -  * Debugger PIN: 682-638-364
+2026-04-19 00:58:00,932 - __main__ - INFO - ========== 新的解析请求 ==========
+2026-04-19 00:58:00,936 - __main__ - INFO - 收到文件: V8.pdf
+2026-04-19 00:58:01,004 - __main__ - INFO - ✓ 成功解析订单数据，字段数: 58
+2026-04-19 00:58:01,004 - __main__ - INFO - 解析结果（非空字段）: {'customer': '当纳利亚洲印务有限公司', 'dingDanShuLiang': 30000.0, 'chuYangShuLiang': 1.0, 'xiaZiliaodaiRiqiPromise': '2025-10-29', 'productName': '903B23251 AM-绿女巫塔罗牌(美平)V8The Green Witch’s Oracle Deck', 'chaoBiLiShuLiang': 1500.0, 'order_id': '25025769', 'zongShuLiang': 30001.0, 'jiuBianMa': '903A96750', 'isbn': '9781507221136', 'chuYangShuoMing': '454500', 'customerPO': '460308806', 'baoJiaDanHao': '装订方式', 'zhuangDingFangShi': '胶装穿线', 'chuHuoShuLiang': 30000.0, 'chuHuoRiqiPromise': '2025-11-24', 'xiLieDanMing': 'Spot job', 'guigeGaoMm': 127.0, 'qiTaShiBie': '978-1-5072-2113-6', 'guigeKuanMm': 88.9, 'chanPinDaLei': 'Others', 'ziLeiXing': '厚', 'guigeHouMm': 8.0, 'fscType': 'Non FSC', 'genSeZhiShi': '跟签色', 'keLaiXinxi': 'CTP再版(翻印)', 'baoLiuQianSe': 'N', 'chanPinMingXi': [{'neiWen': '封面', 'yongZhiChiCun': '', 'houDu': 0.0, 'keZhong': 300.0, 'chanDi': '国产', 'pinPai': '华夏太阳', 'zhiLei': '白卡纸 （单粉 卡）', 'FSC': 'FSC Mix Credit', 'yeShu': 4.0, 'yinSe': 'CYMK/', 'zhuanSe': '/', 'biaoMianChuLi': '单面过哑 胶', 'zhuangDingGongYi': '', 'beiZhu': ''}, {'neiWen': '内文', 'yongZhiChiCun': '', 'houDu': 0.0, 'keZhong': 115.0, 'chanDi': '国产', 'pinPai': '金太阳', 'zhiLei': '双面铜 版纸 (A2亚 光)', 'FSC': 'FSC Mix Credit', 'yeShu': 128.0, 'yinSe': 'CYMK/CYMK', 'zhuanSe': '/', 'biaoMianChuLi': '', 'zhuangDingGongYi': '', 'beiZhu': ''}], 'teShuYaoQiu': '1.此客户包裹要求去塑使用环保材质包装，寄给客人的折排/样本/白样都必须禁止使用珍珠棉/泡泡袋/塑料等不环保材质。 2.此客户V1新单请提供2本样给AE', 'dingDanPingShenXinXi': '"1、1本胶装书+50张卡片按工单顺序入书盒后收缩包装为一套 2、印刷书盒面纸需要拿大货书本和卡片试装，OK才可以印刷，啤书盒灰板和面纸需要拿大货书本卡片试装，OK才可以做大货 3、卡片按分条分块原则编排，印刷》啤》手工排卡》切成品》冲圆角 4、啤封面需拿毛书对比脊宽， 5、胶装书封面拉大排宽度拉大到220MM确保可以上胶装机"'}
+2026-04-19 00:58:01,005 - __main__ - INFO - ✓ 已删除临时文件: V8.pdf
+2026-04-19 00:58:01,005 - __main__ - INFO - ========== 解析成功 ==========
+
+2026-04-19 00:58:01,005 - werkzeug - INFO - 127.0.0.1 - - [19/Apr/2026 00:58:01] "POST /api/order/parse-pdf HTTP/1.1" 200 -
+2026-04-19 00:58:10,059 - __main__ - INFO - ========== 新的解析请求 ==========
+2026-04-19 00:58:10,063 - __main__ - INFO - 收到文件: -V8.pdf
+2026-04-19 00:58:10,171 - __main__ - INFO - ✓ 成功解析订单数据，字段数: 58
+2026-04-19 00:58:10,171 - __main__ - INFO - 解析结果（非空字段）: {'customer': '当纳利亚洲印务有限公司', 'dingDanShuLiang': 30000.0, 'chuYangShuLiang': 1.0, 'xiaZiliaodaiRiqiPromise': '2025-10-29', 'productName': '903B23575 AM-绿女巫塔罗牌(美书盒)V8The Green Witch’s Oracle Deck', 'chaoBiLiShuLiang': 1500.0, 'order_id': '25025769', 'zongShuLiang': 30001.0, 'jiuBianMa': '903B23574', 'isbn': '9781507221136', 'chuYangShuoMing': '454500', 'customerPO': '460308806', 'baoJiaDanHao': '装订方式', 'zhuangDingFangShi': '彩盒', 'chuHuoShuLiang': 30000.0, 'chuHuoRiqiPromise': '2025-11-24', 'xiLieDanMing': 'Spot job', 'guigeGaoMm': 127.0, 'qiTaShiBie': '宽', 'guigeKuanMm': 88.9, 'chanPinDaLei': 'Others', 'ziLeiXing': '厚', 'fscType': 'Non FSC', 'genSeZhiShi': '专色跟色尺,其余跟签色', 'keLaiXinxi': 'CTP再版(翻印)', 'baoLiuQianSe': 'N', 'chanPinMingXi': [{'neiWen': '板纸盒外 裱纸', 'yongZhiChiCun': '', 'houDu': 0.0, 'keZhong': 128.0, 'chanDi': '国产', 'pinPai': '金太阳', 'zhiLei': '双面铜 版纸 (A2高 光)', 'FSC': 'FSC Mix Credit', 'yeShu': 4.0, 'yinSe': 'CYMK/', 'zhuanSe': '/', 'biaoMianChuLi': '单面过哑 胶,压凹', 'zhuangDingGongYi': '收缩包 装', 'beiZhu': '手指位'}, {'neiWen': '板纸盒板 纸', 'yongZhiChiCun': '', 'houDu': 2.5, 'keZhong': 0, 'chanDi': '国产', 'pinPai': '名欧', 'zhiLei': '灰板纸', 'FSC': 'FSC Recycl ed 100%', 'yeShu': 4.0, 'yinSe': '/', 'zhuanSe': '/', 'biaoMianChuLi': '', 'zhuangDingGongYi': '', 'beiZhu': ''}, {'neiWen': '板纸盒内 裱纸', 'yongZhiChiCun': '', 'houDu': 0.0, 'keZhong': 120.0, 'chanDi': '国产', 'pinPai': '金太阳', 'zhiLei': '双胶纸', 'FSC': 'FSC Mix Credit', 'yeShu': 4.0, 'yinSe': '/', 'zhuanSe': '[染PMS Black U][过印刷机 哑水油]/', 'biaoMianChuLi': '', 'zhuangDingGongYi': '', 'beiZhu': ''}, {'neiWen': '卡片', 'yongZhiChiCun': '', 'houDu': 0.0, 'keZhong': 400.0, 'chanDi': '国产', 'pinPai': '金太阳', 'zhiLei': '双面铜 版卡 (高光)', 'FSC': 'FSC Mix Credit', 'yeShu': 100.0, 'yinSe': 'CYMK/CYMK', 'zhuanSe': '[过印刷机哑 水油]/[过印刷 机哑水油]', 'biaoMianChuLi': '', 'zhuangDingGongYi': '圆角', 'beiZhu': ''}], 'zhuangDingShouGongYaoQiu': '1. 天地盒介半穿，天盖打20mm手指位 卡片尺寸W*H:88.9*127mm，4角切4分圆角 卡片正反方向按头对头，脚对脚方向做，卡片黑色面朝上，有颜色的图案面朝下 天盒外裱纸指甲孔离克字仅2.6mm,小心切到字', 'qiTa': '配套书包装：内含一本平装书+50张卡片', 'teShuYaoQiu': '1.此客户包裹要求去塑使用环保材质包装，寄给客人的折排/样本/白样都必须禁止使用珍珠棉/泡泡袋/塑料等不环保材质。 2.此客户V1新单请提供2本样给AE', 'dingDanPingShenXinXi': '"1、1本胶装书+50张卡片按工单顺序入书盒后收缩包装为一套 2、印刷书盒面纸需要拿大货书本和卡片试装，OK才可以印刷，啤书盒灰板和面纸需要拿大货书本卡片试装，OK才可以做大货 3、卡片按分条分块原则编排，印刷》啤》手工排卡》切成品》冲圆角 4、啤封面需拿毛书对比脊宽， 5、胶装书封面拉大排宽度拉大到220MM确保可以上胶装机"'}
+2026-04-19 00:58:10,172 - __main__ - INFO - ✓ 已删除临时文件: -V8.pdf
+2026-04-19 00:58:10,172 - __main__ - INFO - ========== 解析成功 ==========
+
+2026-04-19 00:58:10,172 - werkzeug - INFO - 127.0.0.1 - - [19/Apr/2026 00:58:10] "POST /api/order/parse-pdf HTTP/1.1" 200 -
+2026-04-19 01:16:24,303 - __main__ - INFO - ============================================================
+2026-04-19 01:16:24,303 - __main__ - INFO - E_Print PDF 解析服务启动中...
+2026-04-19 01:16:24,303 - __main__ - INFO - ============================================================
+2026-04-19 01:16:24,303 - __main__ - INFO - 上传目录: /Users/markov_lee/Code/InStruct/e_print_backend/temp
+2026-04-19 01:16:24,303 - __main__ - INFO - 日志目录: /Users/markov_lee/Code/InStruct/e_print_backend/logs
+2026-04-19 01:16:24,303 - __main__ - INFO - 允许的文件类型: {'pdf'}
+2026-04-19 01:16:24,303 - __main__ - INFO - 最大文件大小: 16.0 MB
+2026-04-19 01:16:24,303 - __main__ - INFO - ============================================================
+2026-04-19 01:16:24,303 - __main__ - INFO - 服务运行在: http://localhost:8000
+2026-04-19 01:16:24,303 - __main__ - INFO - API 端点: http://localhost:8000/api/order/parse-pdf
+2026-04-19 01:16:24,303 - __main__ - INFO - ============================================================
+2026-04-19 01:16:24,343 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.1.9:8000
+2026-04-19 01:16:24,343 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2026-04-19 01:16:24,343 - werkzeug - INFO -  * Restarting with stat
+2026-04-19 01:16:24,429 - __main__ - INFO - ============================================================
+2026-04-19 01:16:24,429 - __main__ - INFO - E_Print PDF 解析服务启动中...
+2026-04-19 01:16:24,429 - __main__ - INFO - ============================================================
+2026-04-19 01:16:24,429 - __main__ - INFO - 上传目录: /Users/markov_lee/Code/InStruct/e_print_backend/temp
+2026-04-19 01:16:24,429 - __main__ - INFO - 日志目录: /Users/markov_lee/Code/InStruct/e_print_backend/logs
+2026-04-19 01:16:24,429 - __main__ - INFO - 允许的文件类型: {'pdf'}
+2026-04-19 01:16:24,429 - __main__ - INFO - 最大文件大小: 16.0 MB
+2026-04-19 01:16:24,429 - __main__ - INFO - ============================================================
+2026-04-19 01:16:24,429 - __main__ - INFO - 服务运行在: http://localhost:8000
+2026-04-19 01:16:24,429 - __main__ - INFO - API 端点: http://localhost:8000/api/order/parse-pdf
+2026-04-19 01:16:24,429 - __main__ - INFO - ============================================================
+2026-04-19 01:16:24,445 - werkzeug - WARNING -  * Debugger is active!
+2026-04-19 01:16:24,454 - werkzeug - INFO -  * Debugger PIN: 682-638-364
+2026-04-19 01:23:49,250 - __main__ - INFO - ========== 新的解析请求 ==========
+2026-04-19 01:23:49,254 - __main__ - INFO - 收到文件: -V8.pdf
+2026-04-19 01:23:49,332 - __main__ - INFO - ✓ 成功解析订单数据，字段数: 58
+2026-04-19 01:23:49,332 - __main__ - INFO - 解析结果（非空字段）: {'customer': '当纳利亚洲印务有限公司', 'dingDanShuLiang': 30000.0, 'chuYangShuLiang': 1.0, 'xiaZiliaodaiRiqiPromise': '2025-10-29', 'productName': '903B23575 AM-绿女巫塔罗牌(美书盒)V8The Green Witch’s Oracle Deck', 'chaoBiLiShuLiang': 1500.0, 'order_id': '25025769', 'zongShuLiang': 30001.0, 'jiuBianMa': '903B23574', 'isbn': '9781507221136', 'chuYangShuoMing': '454500', 'customerPO': '460308806', 'baoJiaDanHao': '装订方式', 'zhuangDingFangShi': '彩盒', 'chuHuoShuLiang': 30000.0, 'chuHuoRiqiPromise': '2025-11-24', 'xiLieDanMing': 'Spot job', 'guigeGaoMm': 127.0, 'qiTaShiBie': '宽', 'guigeKuanMm': 88.9, 'chanPinDaLei': 'Others', 'ziLeiXing': '厚', 'fscType': 'Non FSC', 'genSeZhiShi': '专色跟色尺,其余跟签色', 'keLaiXinxi': 'CTP再版(翻印)', 'baoLiuQianSe': 'N', 'chanPinMingXi': [{'neiWen': '板纸盒外 裱纸', 'yongZhiChiCun': '', 'houDu': 0.0, 'keZhong': 128.0, 'chanDi': '国产', 'pinPai': '金太阳', 'zhiLei': '双面铜 版纸 (A2高 光)', 'FSC': 'FSC Mix Credit', 'yeShu': 4.0, 'yinSe': 'CYMK/', 'zhuanSe': '/', 'biaoMianChuLi': '单面过哑 胶,压凹', 'zhuangDingGongYi': '收缩包 装', 'beiZhu': '手指位'}, {'neiWen': '板纸盒板 纸', 'yongZhiChiCun': '', 'houDu': 2.5, 'keZhong': 0, 'chanDi': '国产', 'pinPai': '名欧', 'zhiLei': '灰板纸', 'FSC': 'FSC Recycl ed 100%', 'yeShu': 4.0, 'yinSe': '/', 'zhuanSe': '/', 'biaoMianChuLi': '', 'zhuangDingGongYi': '', 'beiZhu': ''}, {'neiWen': '板纸盒内 裱纸', 'yongZhiChiCun': '', 'houDu': 0.0, 'keZhong': 120.0, 'chanDi': '国产', 'pinPai': '金太阳', 'zhiLei': '双胶纸', 'FSC': 'FSC Mix Credit', 'yeShu': 4.0, 'yinSe': '/', 'zhuanSe': '[染PMS Black U][过印刷机 哑水油]/', 'biaoMianChuLi': '', 'zhuangDingGongYi': '', 'beiZhu': ''}, {'neiWen': '卡片', 'yongZhiChiCun': '', 'houDu': 0.0, 'keZhong': 400.0, 'chanDi': '国产', 'pinPai': '金太阳', 'zhiLei': '双面铜 版卡 (高光)', 'FSC': 'FSC Mix Credit', 'yeShu': 100.0, 'yinSe': 'CYMK/CYMK', 'zhuanSe': '[过印刷机哑 水油]/[过印刷 机哑水油]', 'biaoMianChuLi': '', 'zhuangDingGongYi': '圆角', 'beiZhu': ''}], 'zhuangDingShouGongYaoQiu': '1. 天地盒介半穿，天盖打20mm手指位 卡片尺寸W*H:88.9*127mm，4角切4分圆角 卡片正反方向按头对头，脚对脚方向做，卡片黑色面朝上，有颜色的图案面朝下 天盒外裱纸指甲孔离克字仅2.6mm,小心切到字', 'qiTa': '配套书包装：内含一本平装书+50张卡片', 'teShuYaoQiu': '1.此客户包裹要求去塑使用环保材质包装，寄给客人的折排/样本/白样都必须禁止使用珍珠棉/泡泡袋/塑料等不环保材质。 2.此客户V1新单请提供2本样给AE', 'dingDanPingShenXinXi': '"1、1本胶装书+50张卡片按工单顺序入书盒后收缩包装为一套 2、印刷书盒面纸需要拿大货书本和卡片试装，OK才可以印刷，啤书盒灰板和面纸需要拿大货书本卡片试装，OK才可以做大货 3、卡片按分条分块原则编排，印刷》啤》手工排卡》切成品》冲圆角 4、啤封面需拿毛书对比脊宽， 5、胶装书封面拉大排宽度拉大到220MM确保可以上胶装机"'}
+2026-04-19 01:23:49,332 - __main__ - INFO - ✓ 已删除临时文件: -V8.pdf
+2026-04-19 01:23:49,332 - __main__ - INFO - ========== 解析成功 ==========
+
+2026-04-19 01:23:49,333 - werkzeug - INFO - 127.0.0.1 - - [19/Apr/2026 01:23:49] "POST /api/order/parse-pdf HTTP/1.1" 200 -
