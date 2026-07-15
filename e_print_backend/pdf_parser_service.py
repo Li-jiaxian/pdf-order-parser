@@ -16,6 +16,7 @@ sys.path.insert(0, '/Users/markov_lee/Code/InStruct')
 
 # 导入本地解析模块
 from table_parser import parse_order_from_pdf
+from work_table_parser import parse_work_order_from_pdf
 
 # 配置日志
 LOG_DIR = Path(__file__).parent / 'logs'
@@ -115,6 +116,54 @@ def parse_pdf():
         return jsonify({'error': f'服务器错误: {str(e)}'}), 500
 
 
+@app.route('/api/workorder/parse-pdf', methods=['POST'])
+def parse_work_order_pdf():
+    """
+    解析上传的 PDF 并映射为工程单（IWorkOrder）数据
+
+    接收: FormData 包含 'file' 字段
+    返回: JSON 格式的工程单数据（含 intermedia 工序数组）
+    """
+    logger.info("========== 新的工程单解析请求 ==========")
+
+    try:
+        if 'file' not in request.files:
+            logger.error("请求中没有文件")
+            return jsonify({'error': '没有上传文件'}), 400
+
+        file = request.files['file']
+        if file.filename == '':
+            logger.error("文件名为空")
+            return jsonify({'error': '文件名为空'}), 400
+        if not allowed_file(file.filename):
+            logger.error(f"不支持的文件类型: {file.filename}")
+            return jsonify({'error': '只支持 PDF 文件'}), 400
+
+        filename = secure_filename(file.filename)
+        filepath = os.path.join(app.config['UPLOAD_FOLDER'], filename)
+        file.save(filepath)
+        logger.info(f"收到文件: {filename}")
+
+        try:
+            work_data = parse_work_order_from_pdf(filepath)
+            logger.info(f"✓ 成功解析工程单数据，工序行数: {len(work_data.get('intermedia', []))}")
+        except Exception as e:
+            logger.error(f"工程单数据解析失败: {e}", exc_info=True)
+            return jsonify({'error': f'工程单数据解析失败: {str(e)}'}), 500
+
+        try:
+            os.remove(filepath)
+        except Exception as e:
+            logger.warning(f"删除临时文件失败: {e}")
+
+        logger.info("========== 工程单解析成功 ==========\n")
+        return jsonify(work_data), 200
+
+    except Exception as e:
+        logger.error(f"服务器错误: {e}", exc_info=True)
+        return jsonify({'error': f'服务器错误: {str(e)}'}), 500
+
+
 @app.route('/api/health', methods=['GET'])
 def health_check():
     """健康检查接口"""
@@ -129,6 +178,7 @@ def index():
         'version': '1.0.0',
         'endpoints': {
             'parse': 'POST /api/order/parse-pdf',
+            'parseWorkOrder': 'POST /api/workorder/parse-pdf',
             'health': 'GET /api/health'
         }
     }), 200
